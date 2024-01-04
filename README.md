@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 ---
 title: "Arasy Dynamic Pricing Webapp"
 description: "Dynamic Pricing Webapp for Rental Properties in JABODETABEK"
@@ -59,5 +59,3 @@ Detailed steps on setting up the project locally:
 
 ## Final Notes
 This `README.md` is a comprehensive guide to understanding the structure, purpose, and functionality of the dynamic pricing app. It not only serves as a documentation but also reflects the thought process and decisions made throughout the development of this project.
-=======
->>>>>>> ca88aa5f05f284934b6eabc0f9489333c742cb43
