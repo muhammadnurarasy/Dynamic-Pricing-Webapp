@@ -1,0 +1,473 @@
+product_name,price,year_mileage,location
+Toyota Sienta,Rp 169.000.000,2017 - 60.000-65.000 km,Cilandak2 hari yang lalu
+Nissan Grand livina,Rp 67.000.000,2011 - 120.000-125.000 km,Duren Sawit3 hari yang lalu
+Honda CR-V,Rp 350.000.000,2017 - 95.000-100.000 km,CilincingHari ini
+Honda Brio Satya,Rp 108.500.000,2016 - 80.000-85.000 km,Palmerah3 hari yang lalu
+Honda Brio Satya,Rp 129.000.000,2018 - 85.000-90.000 km,Duren Sawit08 Des
+Honda HR-V,Rp 211.000.000,2017 - 65.000-70.000 km,Cempaka PutihKemarin
+Honda HR-V,Rp 229.000.000,2018 - 70.000-75.000 km,Penjaringan4 hari yang lalu
+Mazda 2,Rp 249.000.000,2020 - 60.000-65.000 km,Cengkareng6 hari yang lalu
+Suzuki Ertiga,Rp 108.500.000,2013 - 50.000-55.000 km,JatinegaraHari ini
+Suzuki Ertiga,Rp 108.500.000,2013 - 50.000-55.000 km,KembanganHari ini
+Toyota Calya,Rp 123.000.000,2019 - 75.000-80.000 km,Kramat JatiHari ini
+Daihatsu Xenia,Rp 164.000.000,2019 - 25.000-30.000 km,KemangHari ini
+Daihatsu Xenia,Rp 164.000.000,2019 - 25.000-30.000 km,TebetHari ini
+Daihatsu Xenia,Rp 164.000.000,2019 - 25.000-30.000 km,PalmerahHari ini
+Daihatsu Ayla,Rp 80.000.000,2016 - 95.000-100.000 km,CakungHari ini
+Daihatsu Ayla,Rp 80.000.000,2016 - 95.000-100.000 km,Kebayoran LamaHari ini
+Daihatsu Ayla,Rp 80.000.000,2016 - 95.000-100.000 km,Grogol PetamburanHari ini
+Mazda 2,Rp 252.000.000,2020 - 60.000-65.000 km,Kramat JatiHari ini
+Honda HR-V,Rp 210.000.000,2018 - 70.000-75.000 km,Duren SawitHari ini
+Lexus RX300,Rp 900.000.000,2018 - 45.000-50.000 km,CilandakHari ini
+Honda HR-V,Rp 200.000.000,2017 - 125.000-130.000 km,Cempaka Putih27 Nov
+Suzuki Ertiga,Rp 126.000.000,2015 - 75.000-80.000 km,Tanah Abang04 Nov
+Daihatsu Xenia,Rp 137.000.000,2018 - 75.000-80.000 km,Kramat Jati08 Des
+Toyota Yaris,Rp 163.000.000,2016 - 75.000-80.000 km,Cibubur21 Nov
+Honda Brio Satya,Rp 151.000.000,2019 - 40.000-45.000 km,Grogol Petamburan08 Des
+Toyota Sienta,Rp 159.000.000,2018 - 30.000-35.000 km,Pasar Minggu02 Nov
+Honda CR-V,Rp 372.000.000,2018 - 45.000-50.000 km,Kemayoran27 Nov
+Wuling Air EV,Rp 185.000.000,2022 - 0-5.000 km,Grogol Petamburan06 Des
+Nissan Grand livina,Rp 117.500.000,2016 - 65.000-70.000 km,CibuburHari ini
+Nissan Grand livina,Rp 117.500.000,2016 - 65.000-70.000 km,Kemang3 hari yang lalu
+Nissan Grand livina,Rp 117.500.000,2016 - 65.000-70.000 km,Kramat JatiHari ini
+Nissan Grand livina,Rp 117.500.000,2016 - 65.000-70.000 km,Duren SawitHari ini
+Nissan Grand livina,Rp 117.500.000,2016 - 65.000-70.000 km,CakungHari ini
+Nissan Grand livina,Rp 117.500.000,2016 - 65.000-70.000 km,Kebayoran Lama3 hari yang lalu
+Nissan Grand livina,Rp 117.500.000,2016 - 65.000-70.000 km,PalmerahHari ini
+Nissan Grand livina,Rp 117.500.000,2016 - 65.000-70.000 km,CengkarengHari ini
+Toyota Fortuner,Rp 358.000.000,2018 - 50.000-55.000 km,Cilangkap3 hari yang lalu
+Toyota Fortuner,Rp 358.000.000,2018 - 50.000-55.000 km,Tanjung Barat3 hari yang lalu
+Toyota Fortuner,Rp 358.000.000,2018 - 50.000-55.000 km,Pasar Minggu3 hari yang lalu
+Toyota Fortuner,Rp 358.000.000,2018 - 50.000-55.000 km,Kebayoran LamaHari ini
+Toyota Kijang Innova,Rp 233.000.000,2017 - 80.000-85.000 km,Kemang29 Nov
+Toyota Voxy,Rp 341.000.000,2018 - 80.000-85.000 km,Pasar Minggu5 hari yang lalu
+Wuling Almaz,Rp 179.000.000,2019 - 40.000-45.000 km,Pasar Minggu03 Des
+Toyota Kijang Innova,Rp 243.000.000,2017 - 80.000-85.000 km,Setia Budi13 Nov
+Hyundai Creta,Rp 361.647.000,2023 - 0-5.000 km,Cilandak20 Nov
+Honda HR-V,Rp 277.000.000,2020 - 75.000-80.000 km,Mampang Prapatan04 Des
+Toyota Voxy,Rp 395.000.000,2019 - 40.000-45.000 km,Penjaringan2 hari yang lalu
+Daihatsu Ayla,Rp 111.000.000,2018 - 10.000-15.000 km,Cengkareng5 hari yang lalu
+Toyota Fortuner,Rp 358.000.000,2018 - 50.000-55.000 km,KembanganHari ini
+Toyota Fortuner,Rp 358.000.000,2018 - 50.000-55.000 km,Grogol PetamburanHari ini
+Toyota Fortuner,Rp 358.000.000,2018 - 50.000-55.000 km,CengkarengHari ini
+Toyota Kijang Innova,Rp 260.000.000,2019 - 65.000-70.000 km,Pasar MingguHari ini
+Daihatsu Gran max,Rp 97.000.000,2017 - 165.000-170.000 km,TebetHari ini
+Mini Cooper,Rp 365.000.000,2010 - 10.000-15.000 km,KemayoranHari ini
+Toyota Avanza,Rp 265.000.000,2022 - 5.000-10.000 km,TebetHari ini
+Mercedes-Benz C250,Rp 269.000.000,2012 - 70.000-75.000 km,Setia BudiHari ini
+Mercedes-Benz C250,Rp 269.000.000,2012 - 70.000-75.000 km,Kebayoran BaruHari ini
+Toyota Camry,Rp 125.000.000,2009 - 130.000-135.000 km,KembanganHari ini
+Wuling Almaz,Rp 203.000.000,2019 - 45.000-50.000 km,Setia BudiHari ini
+Mercedes-Benz S450L,Rp 1.500.000.000,2018 - 15.000-20.000 km,KemayoranHari ini
+Suzuki Ignis,Rp 113.000.000,2019 - 30.000-35.000 km,Grogol Petamburan17 Okt
+Toyota Rush,Rp 252.000.000,2022 - 15.000-20.000 km,Kemang6 hari yang lalu
+Suzuki Ertiga,Rp 143.000.000,2017 - 90.000-95.000 km,Pesanggrahan05 Des
+Daihatsu Ayla,Rp 87.000.000,2018 - 55.000-60.000 km,Duren Sawit26 Okt
+Honda Brio,Rp 185.000.000,2022 - 5.000-10.000 km,Pademangan20 Nov
+Nissan Grand livina,Rp 75.000.000,2011 - 90.000-95.000 km,Kembangan4 hari yang lalu
+Honda Mobilio,Rp 160.000.000,2017 - 65.000-70.000 km,Kemayoran09 Des
+Toyota Raize,Rp 183.000.000,2021 - 15.000-20.000 km,Kemayoran29 Nov
+Mazda 2,Rp 207.000.000,2018 - 70.000-75.000 km,Setia BudiHari ini
+Mitsubishi Pajero Sport,Rp 225.000.000,2010 - 85.000-90.000 km,Grogol PetamburanHari ini
+Toyota Avanza,Rp 147.500.000,2017 - 60.000-65.000 km,Pulo GadungHari ini
+Toyota Avanza,Rp 147.500.000,2017 - 60.000-65.000 km,TebetHari ini
+Toyota Avanza,Rp 147.500.000,2017 - 60.000-65.000 km,CengkarengHari ini
+Toyota Avanza,Rp 147.500.000,2017 - 60.000-65.000 km,KembanganHari ini
+Toyota Calya,Rp 109.000.000,2018 - 45.000-50.000 km,KemangHari ini
+Toyota Calya,Rp 109.000.000,2018 - 45.000-50.000 km,Kramat JatiHari ini
+Toyota Calya,Rp 109.000.000,2018 - 45.000-50.000 km,CiracasHari ini
+Toyota Calya,Rp 109.000.000,2018 - 45.000-50.000 km,KembanganHari ini
+Mercedes-Benz C250,Rp 285.000.000,2012 - 40.000-45.000 km,CilandakHari ini
+Toyota Avanza,Rp 163.500.000,2018 - 55.000-60.000 km,KemangHari ini
+Toyota Yaris,Rp 198.000.000,2019 - 15.000-20.000 km,Makasar02 Nov
+Nissan Grand livina,Rp 125.000.000,2017 - 50.000-55.000 km,Makasar13 Nov
+Toyota Raize,Rp 226.000.000,2021 - 15.000-20.000 km,PancoranKemarin
+Nissan Grand livina,Rp 91.000.000,2013 - 85.000-90.000 km,Kebayoran LamaKemarin
+BMW X3,Rp 283.000.000,2012 - 35.000-40.000 km,Kalideres5 hari yang lalu
+Suzuki XL7,Rp 200.500.000,2020 - 55.000-60.000 km,Cibubur5 hari yang lalu
+Mitsubishi Kuda,Rp 55.000.000,2004 - 195.000-200.000 km,Jagakarsa25 Nov
+Daihatsu Ayla,Rp 81.000.000,2016 - 70.000-75.000 km,Cempaka PutihKemarin
+Toyota Avanza,Rp 163.500.000,2018 - 55.000-60.000 km,PademanganHari ini
+Toyota Avanza,Rp 163.500.000,2018 - 55.000-60.000 km,Pasar ReboHari ini
+Toyota Avanza,Rp 163.500.000,2018 - 55.000-60.000 km,Duren SawitHari ini
+Toyota Avanza,Rp 163.500.000,2018 - 55.000-60.000 km,CiracasHari ini
+Toyota Avanza,Rp 163.500.000,2018 - 55.000-60.000 km,Tanah AbangHari ini
+Toyota Avanza,Rp 163.500.000,2018 - 55.000-60.000 km,TamboraHari ini
+Toyota Avanza,Rp 163.500.000,2018 - 55.000-60.000 km,KembanganHari ini
+Volkswagen Tiguan Allspace,Rp 335.000.000,2018 - 40.000-45.000 km,Cempaka PutihHari ini
+Honda BR-V,Rp 169.000.000,2016 - 115.000-120.000 km,PademanganHari ini
+Daihatsu Ayla,Rp 80.000.000,2016 - 65.000-70.000 km,PademanganHari ini
+Daihatsu Ayla,Rp 80.000.000,2016 - 65.000-70.000 km,JatinegaraHari ini
+Daihatsu Ayla,Rp 80.000.000,2016 - 65.000-70.000 km,CilandakHari ini
+Honda Brio,Rp 135.000.000,2019 - 75.000-80.000 km,Pancoran4 hari yang lalu
+Daihatsu Sigra,Rp 100.500.000,2016 - 35.000-40.000 km,Tambora09 Des
+Suzuki Karimun Wagon R,Rp 68.000.000,2014 - 50.000-55.000 km,Tebet02 Nov
+Daihatsu Sigra,Rp 90.000.000,2017 - 90.000-95.000 km,Cengkareng05 Okt
+Honda HR-V,Rp 217.000.000,2017 - 35.000-40.000 km,Pasar Minggu26 Nov
+Nissan Serena,Rp 194.000.000,2017 - 95.000-100.000 km,JagakarsaKemarin
+Mercedes-Benz C250,Rp 450.000.000,2015 - 90.000-95.000 km,Tebet30 Nov
+Daihatsu Sigra,Rp 101.000.000,2016 - 120.000-125.000 km,Pesanggrahan10 Des
+Daihatsu Ayla,Rp 80.000.000,2016 - 65.000-70.000 km,MentengHari ini
+Daihatsu Ayla,Rp 80.000.000,2016 - 65.000-70.000 km,PalmerahHari ini
+Daihatsu Ayla,Rp 80.000.000,2016 - 65.000-70.000 km,KembanganHari ini
+Honda Brio Satya,Rp 148.000.000,2022 - 25.000-30.000 km,Tanjung DurenHari ini
+Honda Brio Satya,Rp 148.000.000,2022 - 25.000-30.000 km,CiracasHari ini
+Honda Brio Satya,Rp 148.000.000,2022 - 25.000-30.000 km,Kebayoran BaruHari ini
+Honda Brio Satya,Rp 148.000.000,2022 - 25.000-30.000 km,KembanganHari ini
+Honda CR-V,Rp 389.000.000,2019 - 30.000-35.000 km,CilangkapHari ini
+Honda CR-V,Rp 389.000.000,2019 - 30.000-35.000 km,Tanjung BaratHari ini
+Honda CR-V,Rp 389.000.000,2019 - 30.000-35.000 km,KemangHari ini
+Honda CR-V,Rp 389.000.000,2019 - 30.000-35.000 km,Tanjung PriokHari ini
+Honda CR-V,Rp 389.000.000,2019 - 30.000-35.000 km,JatinegaraHari ini
+Daihatsu Xenia,Rp 114.500.000,2017 - 85.000-90.000 km,Kebayoran LamaKemarin
+Nissan Grand livina,Rp 110.000.000,2017 - 90.000-95.000 km,Pesanggrahan4 hari yang lalu
+Toyota Agya,Rp 84.000.000,2014 - 60.000-65.000 km,Jagakarsa09 Des
+Toyota Sienta,Rp 169.000.000,2017 - 60.000-65.000 km,Duren Sawit2 hari yang lalu
+Mitsubishi Xpander,Rp 180.500.000,2017 - 115.000-120.000 km,Ciracas4 hari yang lalu
+Nissan Grand livina,Rp 120.000.000,2017 - 55.000-60.000 km,CibuburKemarin
+Toyota Rush,Rp 192.000.000,2018 - 45.000-50.000 km,Matraman2 hari yang lalu
+Mitsubishi L300,Rp 100.000.000,2015 - 255.000-260.000 km,Cilandak20 Nov
+Honda CR-V,Rp 389.000.000,2019 - 30.000-35.000 km,Pasar MingguHari ini
+Honda CR-V,Rp 389.000.000,2019 - 30.000-35.000 km,Kebayoran LamaHari ini
+Honda CR-V,Rp 389.000.000,2019 - 30.000-35.000 km,Tanah AbangHari ini
+Honda CR-V,Rp 389.000.000,2019 - 30.000-35.000 km,Grogol PetamburanHari ini
+Honda CR-V,Rp 389.000.000,2019 - 30.000-35.000 km,CengkarengHari ini
+Toyota Sienta,Rp 158.000.000,2017 - 115.000-120.000 km,CibuburHari ini
+Toyota Sienta,Rp 158.000.000,2017 - 115.000-120.000 km,PademanganHari ini
+Toyota Sienta,Rp 158.000.000,2017 - 115.000-120.000 km,Duren SawitHari ini
+Toyota Sienta,Rp 158.000.000,2017 - 115.000-120.000 km,TebetHari ini
+Toyota Sienta,Rp 158.000.000,2017 - 115.000-120.000 km,Pasar MingguHari ini
+Toyota Sienta,Rp 158.000.000,2017 - 115.000-120.000 km,JagakarsaHari ini
+Toyota Sienta,Rp 158.000.000,2017 - 115.000-120.000 km,CilandakHari ini
+Honda Freed,Rp 135.000.000,2013 - 95.000-100.000 km,Kelapa Gading28 Okt
+Datsun Go+ Panca,Rp 72.000.000,2015 - 65.000-70.000 km,Duren Sawit08 Des
+Nissan Serena,Rp 201.000.000,2017 - 95.000-100.000 km,Pasar Minggu07 Des
+Honda Brio Satya,Rp 99.000.000,2015 - 55.000-60.000 km,Grogol Petamburan13 Nov
+Mazda Biante,Rp 162.000.000,2015 - 70.000-75.000 km,Penjaringan2 hari yang lalu
+Honda Brio,Rp 172.500.000,2022 - 0-5.000 km,Duren Sawit5 hari yang lalu
+Toyota Calya,Rp 106.000.000,2016 - 50.000-55.000 km,Cengkareng24 Sep
+Kia Sportage,Rp 140.000.000,2013 - 135.000-140.000 km,Ciracas5 hari yang lalu
+Toyota Sienta,Rp 158.000.000,2017 - 115.000-120.000 km,Tanah AbangHari ini
+Toyota Sienta,Rp 158.000.000,2017 - 115.000-120.000 km,Grogol PetamburanHari ini
+Toyota Sienta,Rp 158.000.000,2017 - 115.000-120.000 km,CengkarengHari ini
+Suzuki Ignis,Rp 123.000.000,2019 - 90.000-95.000 km,Tanjung BaratHari ini
+Suzuki Ignis,Rp 123.000.000,2019 - 90.000-95.000 km,KemangHari ini
+Suzuki Ignis,Rp 123.000.000,2019 - 90.000-95.000 km,PademanganHari ini
+Suzuki Ignis,Rp 123.000.000,2019 - 90.000-95.000 km,Kramat JatiHari ini
+Suzuki Ignis,Rp 123.000.000,2019 - 90.000-95.000 km,CakungHari ini
+Suzuki Ignis,Rp 123.000.000,2019 - 90.000-95.000 km,PesanggrahanHari ini
+Suzuki Ignis,Rp 123.000.000,2019 - 90.000-95.000 km,Pasar MingguHari ini
+Suzuki Ignis,Rp 123.000.000,2019 - 90.000-95.000 km,Kebayoran LamaHari ini
+Suzuki Ignis,Rp 123.000.000,2019 - 90.000-95.000 km,Tanah AbangHari ini
+Daihatsu Sigra,Rp 108.000.000,2017 - 20.000-25.000 km,Cilandak15 Okt
+Mitsubishi Xpander,Rp 196.000.000,2019 - 85.000-90.000 km,Jagakarsa08 Nov
+Daihatsu Ayla,Rp 100.000.000,2018 - 55.000-60.000 km,Cilandak4 hari yang lalu
+Daihatsu Ayla,Rp 128.000.000,2020 - 30.000-35.000 km,Cibubur09 Des
+Daihatsu Ayla,Rp 86.000.000,2016 - 160.000-165.000 km,Pantai Indah Kapuk3 hari yang lalu
+Suzuki Ignis,Rp 102.000.000,2017 - 60.000-65.000 km,Kemayoran2 hari yang lalu
+Toyota Rush,Rp 202.000.000,2019 - 50.000-55.000 km,Ciracas2 hari yang lalu
+Lexus RX 270,Rp 299.999.000,2011 - 55.000-60.000 km,Jagakarsa3 hari yang lalu
+Suzuki Ignis,Rp 123.000.000,2019 - 90.000-95.000 km,Grogol PetamburanHari ini
+Suzuki Ignis,Rp 123.000.000,2019 - 90.000-95.000 km,CengkarengHari ini
+Honda Brio Satya,Rp 126.000.000,2018 - 95.000-100.000 km,Tanjung BaratHari ini
+Honda Brio Satya,Rp 126.000.000,2018 - 95.000-100.000 km,PekayonHari ini
+Honda Brio Satya,Rp 126.000.000,2018 - 95.000-100.000 km,KemangHari ini
+Honda Brio Satya,Rp 126.000.000,2018 - 95.000-100.000 km,Kramat JatiHari ini
+Honda Brio Satya,Rp 126.000.000,2018 - 95.000-100.000 km,Duren SawitHari ini
+Honda Brio Satya,Rp 126.000.000,2018 - 95.000-100.000 km,CiracasHari ini
+Honda Brio Satya,Rp 126.000.000,2018 - 95.000-100.000 km,CakungHari ini
+Honda Brio Satya,Rp 126.000.000,2018 - 95.000-100.000 km,Kebayoran LamaHari ini
+Honda Brio Satya,Rp 126.000.000,2018 - 95.000-100.000 km,KembanganHari ini
+Honda Brio Satya,Rp 126.000.000,2018 - 95.000-100.000 km,Grogol PetamburanHari ini
+Toyota Avanza,Rp 245.000.000,2022 - 25.000-30.000 km,Senen08 Nov
+Nissan X-Trail,Rp 237.000.000,2017 - 105.000-110.000 km,Kebayoran Lama04 Agu
+Toyota Fortuner,Rp 399.000.000,2019 - 95.000-100.000 km,Cilandak07 Agu
+Suzuki Ignis,Rp 104.000.000,2017 - 25.000-30.000 km,Jagakarsa08 Des
+Toyota Kijang Innova,Rp 174.000.000,2015 - 90.000-95.000 km,Tambora27 Nov
+Honda Brio,Rp 173.000.000,2020 - 25.000-30.000 km,Cempaka Putih07 Des
+Mitsubishi Outlander Sport,Rp 225.000.000,2018 - 40.000-45.000 km,Kebayoran Lama01 Des
+Toyota Harrier,Rp 180.000.000,2009 - 120.000-125.000 km,Pesanggrahan26 Nov
+Honda Brio Satya,Rp 126.000.000,2018 - 95.000-100.000 km,CengkarengHari ini
+Honda Freed,Rp 140.000.000,2013 - 95.000-100.000 km,Tanjung BaratHari ini
+Honda Freed,Rp 140.000.000,2013 - 95.000-100.000 km,PekayonHari ini
+Honda Freed,Rp 140.000.000,2013 - 95.000-100.000 km,KemangHari ini
+Honda Freed,Rp 140.000.000,2013 - 95.000-100.000 km,PademanganHari ini
+Honda Freed,Rp 140.000.000,2013 - 95.000-100.000 km,CakungHari ini
+Honda Freed,Rp 140.000.000,2013 - 95.000-100.000 km,PesanggrahanHari ini
+Honda Freed,Rp 140.000.000,2013 - 95.000-100.000 km,Pasar MingguHari ini
+Honda Freed,Rp 140.000.000,2013 - 95.000-100.000 km,Kebayoran LamaHari ini
+Honda Freed,Rp 140.000.000,2013 - 95.000-100.000 km,KemayoranHari ini
+Honda Freed,Rp 140.000.000,2013 - 95.000-100.000 km,Grogol PetamburanHari ini
+Honda Freed,Rp 140.000.000,2013 - 95.000-100.000 km,CengkarengHari ini
+Suzuki SX4,Rp 149.000.000,2018 - 105.000-110.000 km,Pasar Minggu07 Sep
+Mazda Biante,Rp 164.000.000,2010 - 130.000-135.000 km,Tigaraksa18 Okt
+Daihatsu Ayla,Rp 87.000.000,2020 - 35.000-40.000 km,Kelapa Gading12 Des
+Daihatsu Xenia,Rp 112.000.000,2016 - 145.000-150.000 km,PesanggrahanHari ini
+Honda BR-V,Rp 172.000.000,2018 - 55.000-60.000 km,Duren SawitHari ini
+Toyota Rush,Rp 190.000.000,2018 - 80.000-85.000 km,Pasar Minggu07 Des
+Honda Jazz,Rp 179.000.000,2017 - 60.000-65.000 km,Pasar MingguKemarin
+Suzuki SX4,Rp 168.500.000,2018 - 50.000-55.000 km,CibuburHari ini
+Toyota Agya,Rp 85.000.000,2014 - 100.000-105.000 km,CilangkapHari ini
+Toyota Agya,Rp 85.000.000,2014 - 100.000-105.000 km,Tanjung BaratHari ini
+Toyota Agya,Rp 85.000.000,2014 - 100.000-105.000 km,KemangHari ini
+Toyota Agya,Rp 85.000.000,2014 - 100.000-105.000 km,PademanganHari ini
+Toyota Agya,Rp 85.000.000,2014 - 100.000-105.000 km,JatinegaraHari ini
+Toyota Agya,Rp 85.000.000,2014 - 100.000-105.000 km,CiracasHari ini
+Toyota Agya,Rp 85.000.000,2014 - 100.000-105.000 km,Kebayoran LamaHari ini
+Toyota Agya,Rp 85.000.000,2014 - 100.000-105.000 km,Tanah AbangHari ini
+Toyota Agya,Rp 85.000.000,2014 - 100.000-105.000 km,PalmerahHari ini
+Toyota Agya,Rp 85.000.000,2014 - 100.000-105.000 km,Grogol PetamburanHari ini
+Toyota Agya,Rp 85.000.000,2014 - 100.000-105.000 km,CengkarengHari ini
+Suzuki Ertiga,Rp 200.000.000,2022 - 25.000-30.000 km,CilandakHari ini
+Datsun Go+ Panca,Rp 69.000.000,2014 - 60.000-65.000 km,Cengkareng07 Sep
+Honda Brio,Rp 126.000.000,2017 - 45.000-50.000 km,Kembangan05 Des
+Mitsubishi Xpander,Rp 187.000.000,2019 - 40.000-45.000 km,Cibubur11 Des
+Toyota Camry,Rp 300.000.000,2018 - 65.000-70.000 km,Kebayoran Lama21 Nov
+Toyota Land Cruiser,Rp 1.950.000.000,2017 - 40.000-45.000 km,Pademangan4 hari yang lalu
+Mitsubishi Xpander,Rp 197.000.000,2019 - 80.000-85.000 km,Pasar MingguKemarin
+Honda City,Rp 172.000.000,2015 - 50.000-55.000 km,Jagakarsa10 Des
+Suzuki Baleno,Rp 153.000.000,2018 - 95.000-100.000 km,PalmerahKemarin
+Toyota Sienta,Rp 134.500.000,2016 - 70.000-75.000 km,CilangkapHari ini
+Toyota Sienta,Rp 134.500.000,2016 - 70.000-75.000 km,Tanjung BaratHari ini
+Toyota Sienta,Rp 134.500.000,2016 - 70.000-75.000 km,KemangHari ini
+Toyota Sienta,Rp 134.500.000,2016 - 70.000-75.000 km,Tanjung PriokHari ini
+Toyota Sienta,Rp 134.500.000,2016 - 70.000-75.000 km,JatinegaraHari ini
+Toyota Sienta,Rp 134.500.000,2016 - 70.000-75.000 km,CipayungHari ini
+Toyota Sienta,Rp 134.500.000,2016 - 70.000-75.000 km,Pasar MingguHari ini
+Toyota Sienta,Rp 134.500.000,2016 - 70.000-75.000 km,Cempaka PutihHari ini
+Toyota Sienta,Rp 134.500.000,2016 - 70.000-75.000 km,KalideresHari ini
+Toyota Sienta,Rp 134.500.000,2016 - 70.000-75.000 km,Grogol PetamburanHari ini
+Toyota Sienta,Rp 134.500.000,2016 - 70.000-75.000 km,CengkarengHari ini
+Toyota Limo,Rp 87.000.000,2016 - 85.000-90.000 km,Grogol PetamburanHari ini
+Honda HR-V,Rp 210.000.000,2017 - 55.000-60.000 km,Cakung6 hari yang lalu
+Toyota Sienta,Rp 195.000.000,2017 - 35.000-40.000 km,Cempaka Putih10 Agu
+Honda Mobilio,Rp 149.500.000,2018 - 95.000-100.000 km,Pasar Minggu5 hari yang lalu
+Suzuki Ignis,Rp 125.000.000,2018 - 100.000-105.000 km,Cibubur2 hari yang lalu
+Honda Jazz,Rp 125.000.000,2013 - 85.000-90.000 km,TebetKemarin
+Toyota Avanza,Rp 251.000.000,2022 - 15.000-20.000 km,Kembangan2 hari yang lalu
+Suzuki Ertiga,Rp 155.000.000,2018 - 95.000-100.000 km,Kelapa Gading07 Des
+Toyota Altis,Rp 353.000.000,2020 - 30.000-35.000 km,Tanah Abang30 Nov
+Honda Mobilio,Rp 132.500.000,2016 - 60.000-65.000 km,CilangkapHari ini
+Honda Mobilio,Rp 132.500.000,2016 - 60.000-65.000 km,PekayonHari ini
+Honda Mobilio,Rp 132.500.000,2016 - 60.000-65.000 km,JatinegaraHari ini
+Honda Mobilio,Rp 132.500.000,2016 - 60.000-65.000 km,Duren SawitHari ini
+Honda Mobilio,Rp 132.500.000,2016 - 60.000-65.000 km,CiracasHari ini
+Honda Mobilio,Rp 132.500.000,2016 - 60.000-65.000 km,Pasar MingguHari ini
+Honda Mobilio,Rp 132.500.000,2016 - 60.000-65.000 km,Kebayoran LamaHari ini
+Honda Mobilio,Rp 132.500.000,2016 - 60.000-65.000 km,JagakarsaHari ini
+Honda Mobilio,Rp 132.500.000,2016 - 60.000-65.000 km,Taman SariHari ini
+Honda Mobilio,Rp 132.500.000,2016 - 60.000-65.000 km,Grogol PetamburanHari ini
+Honda Mobilio,Rp 132.500.000,2016 - 60.000-65.000 km,CengkarengHari ini
+Toyota Avanza,Rp 180.000.000,2019 - 65.000-70.000 km,PademanganHari ini
+Toyota Rush,Rp 209.000.000,2020 - 35.000-40.000 km,Kelapa Gading6 hari yang lalu
+Honda CR-V,Rp 373.000.000,2017 - 65.000-70.000 km,Kemayoran6 hari yang lalu
+Honda BR-V,Rp 162.000.000,2016 - 110.000-115.000 km,Cipayung09 Des
+Suzuki SX4,Rp 194.000.000,2020 - 55.000-60.000 km,Kemang04 Des
+Daihatsu Ayla,Rp 103.500.000,2021 - 35.000-40.000 km,Grogol PetamburanHari ini
+Daihatsu Sirion,Rp 81.000.000,2012 - 125.000-130.000 km,Kebon Jeruk09 Des
+Suzuki Ertiga,Rp 114.000.000,2013 - 60.000-65.000 km,Cilandak4 hari yang lalu
+Honda HR-V,Rp 210.000.000,2018 - 55.000-60.000 km,Kelapa Gading29 Nov
+Honda Brio Satya,Rp 128.000.000,2018 - 70.000-75.000 km,CilangkapHari ini
+Honda Brio Satya,Rp 128.000.000,2018 - 70.000-75.000 km,Kelapa GadingHari ini
+Honda Brio Satya,Rp 128.000.000,2018 - 70.000-75.000 km,JatinegaraHari ini
+Honda Brio Satya,Rp 128.000.000,2018 - 70.000-75.000 km,CipayungHari ini
+Honda Brio Satya,Rp 128.000.000,2018 - 70.000-75.000 km,Pasar MingguHari ini
+Honda Brio Satya,Rp 128.000.000,2018 - 70.000-75.000 km,Kebayoran LamaHari ini
+Honda Brio Satya,Rp 128.000.000,2018 - 70.000-75.000 km,JagakarsaHari ini
+Honda Brio Satya,Rp 128.000.000,2018 - 70.000-75.000 km,Tanah AbangHari ini
+Honda Brio Satya,Rp 128.000.000,2018 - 70.000-75.000 km,PalmerahHari ini
+Honda Brio Satya,Rp 128.000.000,2018 - 70.000-75.000 km,Grogol PetamburanHari ini
+Honda Brio Satya,Rp 128.000.000,2018 - 70.000-75.000 km,CengkarengHari ini
+Daihatsu Xenia,Rp 112.000.000,2016 - 145.000-150.000 km,PekayonHari ini
+Toyota Etios Valco,Rp 74.000.000,2014 - 120.000-125.000 km,Cengkareng05 Sep
+Toyota Rush,Rp 159.000.000,2017 - 60.000-65.000 km,CiracasHari ini
+Honda Freed,Rp 144.000.000,2013 - 95.000-100.000 km,Tanah Abang17 Okt
+Daihatsu Ayla,Rp 123.000.000,2020 - 40.000-45.000 km,Grogol PetamburanHari ini
+Suzuki Baleno,Rp 154.000.000,2017 - 40.000-45.000 km,Cempaka Putih26 Okt
+Honda Mobilio,Rp 114.500.000,2014 - 95.000-100.000 km,Kebon JerukKemarin
+Toyota Yaris,Rp 198.000.000,2019 - 15.000-20.000 km,Pasar Minggu02 Nov
+Honda HR-V,Rp 231.000.000,2021 - 20.000-25.000 km,Cengkareng2 hari yang lalu
+Daihatsu Xenia,Rp 112.000.000,2016 - 145.000-150.000 km,Pantai Indah KapukHari ini
+Daihatsu Xenia,Rp 112.000.000,2016 - 145.000-150.000 km,KemangHari ini
+Daihatsu Xenia,Rp 112.000.000,2016 - 145.000-150.000 km,Duren SawitHari ini
+Daihatsu Xenia,Rp 112.000.000,2016 - 145.000-150.000 km,CiracasHari ini
+Daihatsu Xenia,Rp 112.000.000,2016 - 145.000-150.000 km,Kebayoran LamaHari ini
+Daihatsu Xenia,Rp 112.000.000,2016 - 145.000-150.000 km,Cempaka PutihHari ini
+Daihatsu Xenia,Rp 112.000.000,2016 - 145.000-150.000 km,KalideresHari ini
+Daihatsu Xenia,Rp 112.000.000,2016 - 145.000-150.000 km,Grogol PetamburanHari ini
+Daihatsu Xenia,Rp 112.000.000,2016 - 145.000-150.000 km,CengkarengHari ini
+Toyota Rush,Rp 193.500.000,2018 - 55.000-60.000 km,CilangkapHari ini
+Toyota Rush,Rp 193.500.000,2018 - 55.000-60.000 km,Tanjung DurenHari ini
+Toyota Rush,Rp 193.500.000,2018 - 55.000-60.000 km,Tanjung BaratHari ini
+Honda HR-V,Rp 248.000.000,2021 - 120.000-125.000 km,Jatinegara07 Des
+Honda BR-V,Rp 183.000.000,2018 - 95.000-100.000 km,Cibubur07 Des
+Honda HR-V,Rp 192.500.000,2016 - 80.000-85.000 km,KemayoranKemarin
+Kia Rio,Rp 104.500.000,2012 - 100.000-105.000 km,Cilandak7 hari yang lalu
+Nissan Serena,Rp 194.000.000,2017 - 95.000-100.000 km,JatinegaraKemarin
+Toyota Rush,Rp 152.000.000,2016 - 85.000-90.000 km,Duren Sawit30 Nov
+Toyota Agya,Rp 91.000.000,2016 - 115.000-120.000 km,Kebayoran LamaKemarin
+Nissan Terrano,Rp 95.000.000,2005 - 145.000-150.000 km,Duren Sawit3 hari yang lalu
+Toyota Rush,Rp 193.500.000,2018 - 55.000-60.000 km,KemangHari ini
+Toyota Rush,Rp 193.500.000,2018 - 55.000-60.000 km,Tanjung PriokHari ini
+Toyota Rush,Rp 193.500.000,2018 - 55.000-60.000 km,JatinegaraHari ini
+Toyota Rush,Rp 193.500.000,2018 - 55.000-60.000 km,CiracasHari ini
+Toyota Rush,Rp 193.500.000,2018 - 55.000-60.000 km,Pasar MingguHari ini
+Toyota Rush,Rp 193.500.000,2018 - 55.000-60.000 km,KemayoranHari ini
+Toyota Rush,Rp 193.500.000,2018 - 55.000-60.000 km,Grogol PetamburanHari ini
+Toyota Rush,Rp 193.500.000,2018 - 55.000-60.000 km,CengkarengHari ini
+Toyota Sienta,Rp 157.500.000,2016 - 80.000-85.000 km,PekayonHari ini
+Toyota Sienta,Rp 157.500.000,2016 - 80.000-85.000 km,Kramat JatiHari ini
+Toyota Sienta,Rp 157.500.000,2016 - 80.000-85.000 km,Duren SawitHari ini
+Toyota Sienta,Rp 157.500.000,2016 - 80.000-85.000 km,CiracasHari ini
+Mitsubishi Xpander,Rp 211.000.000,2019 - 95.000-100.000 km,Pademangan6 hari yang lalu
+Honda Brio Satya,Rp 126.000.000,2017 - 50.000-55.000 km,Duren Sawit04 Sep
+Toyota Avanza,Rp 180.000.000,2019 - 100.000-105.000 km,Kelapa Gading30 Nov
+Mitsubishi Xpander,Rp 189.000.000,2018 - 85.000-90.000 km,CengkarengKemarin
+Suzuki Ertiga,Rp 166.000.000,2018 - 95.000-100.000 km,Cilandak28 Nov
+Daihatsu Xenia,Rp 142.000.000,2017 - 35.000-40.000 km,Cilandak28 Nov
+Honda Jazz,Rp 194.000.000,2017 - 130.000-135.000 km,Tanjung BaratKemarin
+Mercedes-Benz CLA200,Rp 555.000.000,2018 - 20.000-25.000 km,Pademangan6 hari yang lalu
+Toyota Sienta,Rp 157.500.000,2016 - 80.000-85.000 km,CakungHari ini
+Toyota Sienta,Rp 157.500.000,2016 - 80.000-85.000 km,PesanggrahanHari ini
+Toyota Sienta,Rp 157.500.000,2016 - 80.000-85.000 km,PancoranHari ini
+Toyota Sienta,Rp 157.500.000,2016 - 80.000-85.000 km,Kebayoran LamaHari ini
+Toyota Sienta,Rp 157.500.000,2016 - 80.000-85.000 km,PalmerahHari ini
+Toyota Sienta,Rp 157.500.000,2016 - 80.000-85.000 km,Grogol PetamburanHari ini
+Toyota Sienta,Rp 157.500.000,2016 - 80.000-85.000 km,CengkarengHari ini
+Honda Mobilio,Rp 163.500.000,2018 - 95.000-100.000 km,CilangkapHari ini
+Honda Mobilio,Rp 163.500.000,2018 - 95.000-100.000 km,PekayonHari ini
+Honda Mobilio,Rp 163.500.000,2018 - 95.000-100.000 km,JatinegaraHari ini
+Honda Mobilio,Rp 163.500.000,2018 - 95.000-100.000 km,Duren SawitHari ini
+Honda Mobilio,Rp 163.500.000,2018 - 95.000-100.000 km,CiracasHari ini
+Toyota Yaris,Rp 146.500.000,2017 - 75.000-80.000 km,PekayonKemarin
+Daihatsu Sigra,Rp 108.000.000,2017 - 20.000-25.000 km,Duren Sawit15 Okt
+Daihatsu Xenia,Rp 130.000.000,2016 - 60.000-65.000 km,Johar Baru4 hari yang lalu
+Toyota Calya,Rp 107.500.000,2017 - 85.000-90.000 km,Kebon Jeruk5 hari yang lalu
+Mazda CX-5,Rp 350.000.000,2018 - 65.000-70.000 km,Cilandak01 Des
+Toyota Alphard,Rp 389.000.000,2012 - 75.000-80.000 km,Kebayoran Baru30 Nov
+Toyota Avanza,Rp 123.000.000,2018 - 110.000-115.000 km,Pancoran4 hari yang lalu
+Mitsubishi Xpander,Rp 170.000.000,2018 - 45.000-50.000 km,KemayoranKemarin
+Honda Mobilio,Rp 163.500.000,2018 - 95.000-100.000 km,Pasar MingguHari ini
+Honda Mobilio,Rp 163.500.000,2018 - 95.000-100.000 km,Kebayoran LamaHari ini
+Honda Mobilio,Rp 163.500.000,2018 - 95.000-100.000 km,JagakarsaHari ini
+Honda Mobilio,Rp 163.500.000,2018 - 95.000-100.000 km,Taman SariHari ini
+Honda Mobilio,Rp 163.500.000,2018 - 95.000-100.000 km,Grogol PetamburanHari ini
+Honda Mobilio,Rp 163.500.000,2018 - 95.000-100.000 km,CengkarengHari ini
+Honda Brio,Rp 135.500.000,2017 - 45.000-50.000 km,PekayonHari ini
+Honda Brio,Rp 135.500.000,2017 - 45.000-50.000 km,Pasar BaruHari ini
+Honda Brio,Rp 135.500.000,2017 - 45.000-50.000 km,Kelapa GadingHari ini
+Honda Brio,Rp 135.500.000,2017 - 45.000-50.000 km,Kramat JatiHari ini
+Honda Brio,Rp 135.500.000,2017 - 45.000-50.000 km,Duren SawitHari ini
+Honda Brio,Rp 135.500.000,2017 - 45.000-50.000 km,TebetHari ini
+Toyota Rush,Rp 195.000.000,2018 - 65.000-70.000 km,Kemayoran11 Des
+Daihatsu Ayla,Rp 92.000.000,2015 - 100.000-105.000 km,Kelapa Gading26 Okt
+Toyota Kijang Innova,Rp 169.000.000,2014 - 100.000-105.000 km,CakungKemarin
+Toyota Avanza,Rp 131.000.000,2018 - 55.000-60.000 km,Kelapa Gading4 hari yang lalu
+Honda Brio,Rp 100.000.000,2015 - 35.000-40.000 km,Cengkareng02 Des
+Datsun Go Panca,Rp 88.000.000,2018 - 20.000-25.000 km,Pesanggrahan5 hari yang lalu
+Toyota Calya,Rp 130.000.000,2022 - 40.000-45.000 km,Pademangan03 Des
+Daihatsu Sirion,Rp 88.000.000,2014 - 120.000-125.000 km,Tanjung Priok6 hari yang lalu
+Honda Brio,Rp 135.500.000,2017 - 45.000-50.000 km,Pasar MingguHari ini
+Honda Brio,Rp 135.500.000,2017 - 45.000-50.000 km,CilandakHari ini
+Honda Brio,Rp 135.500.000,2017 - 45.000-50.000 km,KembanganHari ini
+Honda Brio,Rp 135.500.000,2017 - 45.000-50.000 km,Grogol PetamburanHari ini
+Honda Brio,Rp 135.500.000,2017 - 45.000-50.000 km,CengkarengHari ini
+Honda Jazz,Rp 195.000.000,2020 - 45.000-50.000 km,Kebon JerukHari ini
+Toyota Altis,Rp 230.000.000,2018 - 85.000-90.000 km,CilandakHari ini
+Toyota Sienta,Rp 142.000.000,2017 - 115.000-120.000 km,PekayonHari ini
+Toyota Sienta,Rp 142.000.000,2017 - 115.000-120.000 km,Kramat JatiHari ini
+Toyota Sienta,Rp 142.000.000,2017 - 115.000-120.000 km,Duren SawitHari ini
+Toyota Sienta,Rp 142.000.000,2017 - 115.000-120.000 km,CiracasHari ini
+Toyota Sienta,Rp 142.000.000,2017 - 115.000-120.000 km,CakungHari ini
+Daihatsu Sigra,Rp 96.000.000,2021 - 50.000-55.000 km,Kebayoran Baru03 Nov
+Toyota Fortuner,Rp 364.000.000,2018 - 75.000-80.000 km,Pesanggrahan05 Des
+Toyota Fortuner,Rp 454.000.000,2020 - 40.000-45.000 km,Pancoran5 hari yang lalu
+Daihatsu Ayla,Rp 124.000.000,2022 - 20.000-25.000 km,JagakarsaHari ini
+Toyota Yaris,Rp 208.500.000,2020 - 50.000-55.000 km,Kemang07 Des
+Nissan Serena,Rp 317.500.000,2019 - 65.000-70.000 km,Jagakarsa3 hari yang lalu
+Honda Brio,Rp 179.100.000,2023 - 0-5.000 km,Jatinegara05 Des
+Toyota Kijang Innova,Rp 325.000.000,2019 - 55.000-60.000 km,Cengkareng12 Des
+Toyota Sienta,Rp 142.000.000,2017 - 115.000-120.000 km,PesanggrahanHari ini
+Toyota Sienta,Rp 142.000.000,2017 - 115.000-120.000 km,PancoranHari ini
+Toyota Sienta,Rp 142.000.000,2017 - 115.000-120.000 km,Kebayoran LamaHari ini
+Toyota Sienta,Rp 142.000.000,2017 - 115.000-120.000 km,PalmerahHari ini
+Toyota Sienta,Rp 142.000.000,2017 - 115.000-120.000 km,Grogol PetamburanHari ini
+Toyota Sienta,Rp 142.000.000,2017 - 115.000-120.000 km,CengkarengHari ini
+Mercedes-Benz C250,Rp 285.000.000,2012 - 40.000-45.000 km,Kramat JatiHari ini
+Honda Odyssey,Rp 75.000.000,2001 - 85.000-90.000 km,Kebayoran BaruHari ini
+Toyota Fortuner,Rp 395.000.000,2019 - 65.000-70.000 km,Kebayoran LamaHari ini
+Toyota Raize,Rp 210.000.000,2021 - 40.000-45.000 km,Duren SawitHari ini
+Daihatsu Xenia,Rp 150.000.000,2019 - 50.000-55.000 km,KemayoranHari ini
+Daihatsu Xenia,Rp 140.000.000,2018 - 100.000-105.000 km,CibuburHari ini
+Toyota Calya,Rp 90.000.000,2018 - 30.000-35.000 km,Kebon Jeruk04 Des
+Honda Jazz,Rp 223.000.000,2017 - 75.000-80.000 km,Makasar16 Agu
+Daihatsu Xenia,Rp 108.000.000,2014 - 40.000-45.000 km,Palmerah29 Okt
+Daihatsu Xenia,Rp 130.000.000,2016 - 25.000-30.000 km,Kelapa Gading01 Nov
+Suzuki Ertiga,Rp 167.500.000,2021 - 30.000-35.000 km,Duren Sawit07 Des
+Toyota Yaris,Rp 170.000.000,2018 - 40.000-45.000 km,Kebon JerukHari ini
+Honda Brio,Rp 158.200.000,2023 - 0-5.000 km,Kebayoran Lama06 Nov
+Kia Sonet,Rp 235.000.000,2021 - 35.000-40.000 km,Pulo Gadung3 hari yang lalu
+Nissan X-Trail,Rp 188.000.000,2014 - 105.000-110.000 km,CibuburHari ini
+Honda City,Rp 264.000.000,2021 - 55.000-60.000 km,Cibubur06 Nov
+Mitsubishi Outlander Sport,Rp 170.000.000,2015 - 120.000-125.000 km,Grogol Petamburan5 hari yang lalu
+Toyota Camry,Rp 285.000.000,2018 - 75.000-80.000 km,Duren Sawit09 Des
+Toyota Yaris,Rp 157.000.000,2016 - 85.000-90.000 km,Pasar Minggu08 Des
+Toyota Avanza,Rp 129.000.000,2014 - 95.000-100.000 km,Cempaka Putih06 Nov
+Nissan Serena,Rp 317.500.000,2019 - 65.000-70.000 km,Jatinegara3 hari yang lalu
+Toyota Yaris,Rp 142.000.000,2015 - 65.000-70.000 km,Pantai Indah KapukKemarin
+Toyota Corolla Altis,Rp 200.000.000,2018 - 80.000-85.000 km,Pekayon01 Nov
+Toyota Calya,Rp 119.000.000,2019 - 75.000-80.000 km,Pasar ReboKemarin
+Nissan Grand livina,Rp 105.000.000,2014 - 95.000-100.000 km,Duren Sawit4 hari yang lalu
+Toyota Fortuner,Rp 368.000.000,2016 - 20.000-25.000 km,Jatinegara15 Sep
+Honda HR-V,Rp 215.000.000,2018 - 55.000-60.000 km,Jagakarsa30 Nov
+Daihatsu Ayla,Rp 110.000.000,2018 - 15.000-20.000 km,PesanggrahanKemarin
+Mazda CX-5,Rp 236.000.000,2016 - 145.000-150.000 km,Pulo Gadung16 Nov
+Toyota Fortuner,Rp 399.000.000,2019 - 75.000-80.000 km,Setia Budi24 Nov
+Suzuki Ertiga,Rp 162.000.000,2018 - 90.000-95.000 km,Mampang Prapatan13 Des
+Toyota Fortuner,Rp 454.000.000,2020 - 55.000-60.000 km,Kramat Jati02 Des
+Nissan Serena,Rp 143.000.000,2013 - 145.000-150.000 km,Kelapa GadingKemarin
+Toyota Raize,Rp 212.500.000,2021 - 35.000-40.000 km,Grogol PetamburanKemarin
+Daihatsu Terios,Rp 117.000.000,2014 - 25.000-30.000 km,KemangKemarin
+Toyota Yaris,Rp 204.000.000,2018 - 75.000-80.000 km,Tanjung Duren4 hari yang lalu
+Daihatsu Xenia,Rp 140.000.000,2018 - 100.000-105.000 km,Kramat JatiHari ini
+Daihatsu Xenia,Rp 140.000.000,2018 - 100.000-105.000 km,Duren SawitHari ini
+Daihatsu Xenia,Rp 140.000.000,2018 - 100.000-105.000 km,CakungHari ini
+Daihatsu Xenia,Rp 140.000.000,2018 - 100.000-105.000 km,TebetHari ini
+Daihatsu Xenia,Rp 140.000.000,2018 - 100.000-105.000 km,PancoranHari ini
+Daihatsu Xenia,Rp 140.000.000,2018 - 100.000-105.000 km,JagakarsaHari ini
+Daihatsu Xenia,Rp 140.000.000,2018 - 100.000-105.000 km,PalmerahHari ini
+Daihatsu Xenia,Rp 140.000.000,2018 - 100.000-105.000 km,Grogol PetamburanHari ini
+Daihatsu Xenia,Rp 140.000.000,2018 - 100.000-105.000 km,CengkarengHari ini
+Toyota Camry,Rp 195.000.000,2013 - 70.000-75.000 km,Kebayoran LamaHari ini
+Volkswagen Polo,Rp 124.000.000,2017 - 115.000-120.000 km,Duren SawitHari ini
+Honda Brio Satya,Rp 118.000.000,2016 - 100.000-105.000 km,Cempaka Putih12 Des
+Toyota Kijang Innova,Rp 166.000.000,2014 - 85.000-90.000 km,Duren SawitHari ini
+Toyota Avanza,Rp 251.000.000,2022 - 15.000-20.000 km,Jatinegara2 hari yang lalu
+Nissan Livina,Rp 116.000.000,2013 - 35.000-40.000 km,CilangkapHari ini
+Toyota Calya,Rp 114.000.000,2016 - 45.000-50.000 km,CilangkapHari ini
+Hyundai Ioniq 5,Rp 685.000.000,2023 - 5.000-10.000 km,KemangHari ini
+Mercedes-Benz C250,Rp 530.000.000,2016 - 15.000-20.000 km,Kelapa GadingHari ini
+Ford Ecosport,Rp 103.000.000,2014 - 90.000-95.000 km,KemayoranHari ini
+Hyundai Creta,Rp 250.000.000,2022 - 5.000-10.000 km,Grogol PetamburanHari ini
+Toyota Calya,Rp 97.000.000,2016 - 90.000-95.000 km,CilangkapHari ini
+Toyota Calya,Rp 97.000.000,2016 - 90.000-95.000 km,Tanjung BaratHari ini
+Toyota Calya,Rp 97.000.000,2016 - 90.000-95.000 km,Kelapa GadingHari ini
+Toyota Calya,Rp 97.000.000,2016 - 90.000-95.000 km,Pasar MingguHari ini
+Toyota Calya,Rp 97.000.000,2016 - 90.000-95.000 km,Kebayoran LamaHari ini
+Toyota Calya,Rp 97.000.000,2016 - 90.000-95.000 km,JagakarsaHari ini
+Toyota Avanza,Rp 93.000.000,2011 - 95.000-100.000 km,PancoranKemarin
+Mitsubishi Xpander,Rp 206.000.000,2019 - 60.000-65.000 km,Grogol PetamburanKemarin
+Mini Cooper Mini Cooper,Rp 420.000.000,2015 - 30.000-35.000 km,Kemayoran06 Des
+Mercedes-Benz GLC-Class,Rp 888.000.000,2021 - 10.000-15.000 km,Kemayoran22 Agu
+Toyota Calya,Rp 97.000.000,2016 - 90.000-95.000 km,Sawah BesarHari ini
+Toyota Calya,Rp 97.000.000,2016 - 90.000-95.000 km,Grogol PetamburanHari ini
+Toyota Calya,Rp 97.000.000,2016 - 90.000-95.000 km,CengkarengHari ini
+Mercedes-Benz G63,Rp 7.200.000.000,2023 - 0-5.000 km,CilandakHari ini
+Mazda 2,Rp 118.000.000,2013 - 60.000-65.000 km,Jakarta SelatanHari ini
+Nissan Elgrand,Rp 270.000.000,2013 - 70.000-75.000 km,Jakarta SelatanHari ini
+Honda Brio,Rp 180.000.000,2021 - 20.000-25.000 km,Tanjung BaratHari ini
+Honda Brio,Rp 180.000.000,2021 - 20.000-25.000 km,PekayonHari ini
+Honda Brio,Rp 180.000.000,2021 - 20.000-25.000 km,Pantai Indah KapukHari ini
+Honda Brio,Rp 180.000.000,2021 - 20.000-25.000 km,KemangHari ini
+Honda Brio,Rp 180.000.000,2021 - 20.000-25.000 km,Duren SawitHari ini
+Honda Brio,Rp 180.000.000,2021 - 20.000-25.000 km,PesanggrahanHari ini

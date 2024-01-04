@@ -1,0 +1,1485 @@
+price,location,brand,type,year,mileage
+212000000,Jagakarsa,Honda,BR-V,2021,35.000-40.000
+163000000,Kemayoran,Suzuki,Baleno,2018,30.000-35.000
+189000000,Pasar Minggu,Toyota,Sienta,2017,55.000-60.000
+86000000,Ciracas,Suzuki,Karimun,2017,50.000-55.000
+350000000,Cilandak,BMW,320i,2015,30.000-35.000
+247000000,Kebayoran Lama,BMW,X1,2013,55.000-60.000
+925000000,Cilandak,Toyota,Alphard,2020,40.000-45.000
+92000000,Cilandak,Daihatsu,Ayla,2016,140.000-145.000
+202000000,Pekayon,Mitsubishi,Xpander,2018,55.000-60.000
+202000000,Pasar Minggu,Mitsubishi,Xpander,2018,55.000-60.000
+202000000,Tambora,Mitsubishi,Xpander,2018,55.000-60.000
+202000000,Kembangan,Mitsubishi,Xpander,2018,55.000-60.000
+108500000,Kelapa Gading,Suzuki,Ertiga,2013,50.000-55.000
+108500000,Jatinegara,Suzuki,Ertiga,2013,50.000-55.000
+108500000,Tebet,Suzuki,Ertiga,2013,50.000-55.000
+108500000,Kebayoran Baru,Suzuki,Ertiga,2013,50.000-55.000
+108500000,Cilandak,Suzuki,Ertiga,2013,50.000-55.000
+108500000,Kemayoran,Suzuki,Ertiga,2013,50.000-55.000
+108500000,Tambora,Suzuki,Ertiga,2013,50.000-55.000
+108500000,Kembangan,Suzuki,Ertiga,2013,50.000-55.000
+139000000,Pasar Minggu,Suzuki,SX4,2016,40.000-45.000
+158000000,Pantai Indah Kapuk,Suzuki,Ertiga,2020,25.000-30.000
+181000000,Cipayung,Nissan,X-Trail,2015,115.000-120.000
+359000000,Tanjung Barat,Honda,CR-V,2017,55.000-60.000
+123000000,Kebayoran Baru,Daihatsu,Ayla,2018,10.000-15.000
+295000000,Pasar Minggu,Toyota,Kijang Innova,2021,90.000-95.000
+192000000,Cilandak,Toyota,Rush,2018,95.000-100.000
+716000000,Setia Budi,Lexus,RX200t,2016,70.000-75.000
+123000000,Kemang,Toyota,Calya,2019,75.000-80.000
+123000000,Kramat Jati,Toyota,Calya,2019,75.000-80.000
+123000000,Kebon Jeruk,Toyota,Calya,2019,75.000-80.000
+123000000,Kembangan,Toyota,Calya,2019,75.000-80.000
+164000000,Cibubur,Daihatsu,Xenia,2019,25.000-30.000
+164000000,Kemang,Daihatsu,Xenia,2019,25.000-30.000
+164000000,Pademangan,Daihatsu,Xenia,2019,25.000-30.000
+164000000,Tebet,Daihatsu,Xenia,2019,25.000-30.000
+164000000,Pesanggrahan,Daihatsu,Xenia,2019,25.000-30.000
+164000000,Menteng,Daihatsu,Xenia,2019,25.000-30.000
+164000000,Palmerah,Daihatsu,Xenia,2019,25.000-30.000
+164000000,Kembangan,Daihatsu,Xenia,2019,25.000-30.000
+76000000,Cengkareng,Suzuki,Splash,2014,70.000-75.000
+215000000,Cibubur,Honda,HR-V,2018,35.000-40.000
+159000000,Tanah Abang,Daihatsu,Sirion,2019,55.000-60.000
+91000000,Cengkareng,Daihatsu,Ayla,2018,115.000-120.000
+82500000,Ciracas,Toyota,Agya,2015,35.000-40.000
+212000000,Pasar Minggu,Toyota,Yaris,2020,40.000-45.000
+364000000,Kebayoran Baru,Toyota,Fortuner,2018,65.000-70.000
+175000000,Tebet,Honda,BR-V,2017,80.000-85.000
+80000000,Pantai Indah Kapuk,Daihatsu,Ayla,2016,95.000-100.000
+80000000,Cakung,Daihatsu,Ayla,2016,95.000-100.000
+80000000,Pasar Minggu,Daihatsu,Ayla,2016,95.000-100.000
+80000000,Kebayoran Lama,Daihatsu,Ayla,2016,95.000-100.000
+80000000,Jagakarsa,Daihatsu,Ayla,2016,95.000-100.000
+80000000,Cempaka Putih,Daihatsu,Ayla,2016,95.000-100.000
+80000000,Grogol Petamburan,Daihatsu,Ayla,2016,95.000-100.000
+80000000,Kembangan,Daihatsu,Ayla,2016,95.000-100.000
+252000000,Kelapa Gading,Mazda,2,2020,60.000-65.000
+252000000,Pulo Gadung,Mazda,2,2020,60.000-65.000
+252000000,Kramat Jati,Mazda,2,2020,60.000-65.000
+252000000,Ciracas,Mazda,2,2020,60.000-65.000
+137000000,Duren Sawit,Honda,Mobilio,2016,45.000-50.000
+111000000,Jagakarsa,Daihatsu,Ayla,2019,40.000-45.000
+194000000,Sawah Besar,Toyota,Rush,2019,75.000-80.000
+215000000,Pasar Minggu,Suzuki,XL7,2021,20.000-25.000
+120500000,Grogol Petamburan,Honda,Mobilio,2015,130.000-135.000
+206000000,Cipayung,Toyota,Yaris,2018,40.000-45.000
+133000000,Pasar Minggu,Honda,Brio,2017,95.000-100.000
+179000000,Cilandak,Honda,Jazz,2016,60.000-65.000
+252000000,Pesanggrahan,Mazda,2,2020,60.000-65.000
+252000000,Cempaka Putih,Mazda,2,2020,60.000-65.000
+252000000,Tambora,Mazda,2,2020,60.000-65.000
+252000000,Kembangan,Mazda,2,2020,60.000-65.000
+210000000,Duren Sawit,Honda,HR-V,2018,70.000-75.000
+900000000,Cilandak,Lexus,RX300,2018,45.000-50.000
+217000000,Duren Sawit,Toyota,Raize,2022,10.000-15.000
+117500000,Cibubur,Nissan,Grand livina,2016,65.000-70.000
+117500000,Pekayon,Nissan,Grand livina,2016,65.000-70.000
+117500000,Kemang,Nissan,Grand livina,2016,65.000-70.000
+117500000,Kramat Jati,Nissan,Grand livina,2016,65.000-70.000
+117500000,Duren Sawit,Nissan,Grand livina,2016,65.000-70.000
+251000000,Pasar Minggu,Mazda,CX-5,2016,55.000-60.000
+106000000,Cilandak,Daihatsu,Sirion,2015,120.000-125.000
+87000000,Ciracas,Nissan,Evalia,2013,150.000-155.000
+206000000,Kembangan,Mitsubishi,Outlander Sport,2017,35.000-40.000
+213000000,Makasar,Honda,HR-V,2017,100.000-105.000
+197500000,Kemayoran,Mitsubishi,Xpander,2018,60.000-65.000
+50000000,Pulo Gadung,Toyota,Soluna,2001,300.000
+562700000,Jagakarsa,Toyota,Fortuner,2023,5.000
+117500000,Cakung,Nissan,Grand livina,2016,65.000-70.000
+117500000,Pesanggrahan,Nissan,Grand livina,2016,65.000-70.000
+117500000,Kebayoran Lama,Nissan,Grand livina,2016,65.000-70.000
+117500000,Palmerah,Nissan,Grand livina,2016,65.000-70.000
+117500000,Grogol Petamburan,Nissan,Grand livina,2016,65.000-70.000
+117500000,Cengkareng,Nissan,Grand livina,2016,65.000-70.000
+358000000,Cilangkap,Toyota,Fortuner,2018,50.000-55.000
+358000000,Tanjung Barat,Toyota,Fortuner,2018,50.000-55.000
+358000000,Cilincing,Toyota,Fortuner,2018,50.000-55.000
+358000000,Jatinegara,Toyota,Fortuner,2018,50.000-55.000
+358000000,Ciracas,Toyota,Fortuner,2018,50.000-55.000
+358000000,Pasar Minggu,Toyota,Fortuner,2018,50.000-55.000
+158000000,Kemang,Honda,BR-V,2017,70.000-75.000
+184000000,Cempaka Putih,Honda,CR-V,2013,85.000-90.000
+171000000,Pasar Minggu,Honda,BR-V,2017,45.000-50.000
+211000000,Grogol Petamburan,Mitsubishi,Xpander,2019,95.000-100.000
+168000000,Pasar Rebo,Honda,Brio,2021,70.000-75.000
+126000000,Duren Sawit,Suzuki,Ignis,2019,55.000-60.000
+206000000,Jagakarsa,Toyota,Yaris,2019,35.000-40.000
+239500000,Cengkareng,Toyota,Kijang Innova,2018,90.000-95.000
+358000000,Kebayoran Lama,Toyota,Fortuner,2018,50.000-55.000
+358000000,Cempaka Putih,Toyota,Fortuner,2018,50.000-55.000
+358000000,Kembangan,Toyota,Fortuner,2018,50.000-55.000
+358000000,Grogol Petamburan,Toyota,Fortuner,2018,50.000-55.000
+358000000,Cengkareng,Toyota,Fortuner,2018,50.000-55.000
+260000000,Pasar Minggu,Toyota,Kijang Innova,2019,65.000-70.000
+97000000,Tebet,Daihatsu,Gran max,2017,165.000-170.000
+365000000,Kemayoran,Mini,Cooper,2010,10.000-15.000
+265000000,Tebet,Toyota,Avanza,2022,5.000-10.000
+155000000,Kebayoran Baru,Volkswagen,Polo,2017,50.000-55.000
+269000000,Setia Budi,Mercedes-Benz,C250,2012,70.000-75.000
+269000000,Kebayoran Baru,Mercedes-Benz,C250,2012,70.000-75.000
+93000000,Cengkareng,Toyota,Etios Valco,2016,85.000-90.000
+165000000,Cengkareng,Honda,Mobilio,2020,15.000-20.000
+165000000,Tanah Abang,Honda,Freed,2015,25.000-30.000
+242000000,Jagakarsa,Suzuki,XL7,2023,5.000
+198500000,Cengkareng,Daihatsu,Terios,2021,35.000-40.000
+235000000,Kembangan,Daihatsu,Terios,2023,5.000
+210000000,Kramat Jati,Suzuki,XL7,2021,55.000-60.000
+176000000,Kebayoran Lama,Suzuki,A-Star,2019,85.000-90.000
+125000000,Kembangan,Toyota,Camry,2009,130.000-135.000
+203000000,Setia Budi,Wuling,Almaz,2019,45.000-50.000
+1500000000,Kemayoran,Mercedes-Benz,S450L,2018,15.000-20.000
+207000000,Setia Budi,Mazda,2,2018,70.000-75.000
+225000000,Grogol Petamburan,Mitsubishi,Pajero Sport,2010,85.000-90.000
+147500000,Pulo Gadung,Toyota,Avanza,2017,60.000-65.000
+147500000,Tebet,Toyota,Avanza,2017,60.000-65.000
+147500000,Cengkareng,Toyota,Avanza,2017,60.000-65.000
+147500000,Kembangan,Toyota,Avanza,2017,60.000-65.000
+109000000,Kemang,Toyota,Calya,2018,45.000-50.000
+109000000,Kramat Jati,Toyota,Calya,2018,45.000-50.000
+109000000,Ciracas,Toyota,Calya,2018,45.000-50.000
+191000000,Cilandak,Honda,City,2015,100.000-105.000
+104500000,Tebet,Daihatsu,Sigra,2018,95.000-100.000
+134000000,Cakung,Toyota,Agya,2022,15.000-20.000
+128500000,Tebet,Daihatsu,Terios,2014,85.000-90.000
+122000000,Cempaka Putih,Honda,Brio Satya,2017,60.000-65.000
+143000000,Pancoran,Suzuki,Ertiga,2017,75.000-80.000
+128000000,Cilandak,Daihatsu,Sigra,2020,30.000-35.000
+208000000,Pasar Minggu,Toyota,Rush,2018,90.000-95.000
+109000000,Kembangan,Toyota,Calya,2018,45.000-50.000
+285000000,Cilandak,Mercedes-Benz,C250,2012,40.000-45.000
+163500000,Kemang,Toyota,Avanza,2018,55.000-60.000
+163500000,Pademangan,Toyota,Avanza,2018,55.000-60.000
+163500000,Pasar Rebo,Toyota,Avanza,2018,55.000-60.000
+163500000,Duren Sawit,Toyota,Avanza,2018,55.000-60.000
+163500000,Ciracas,Toyota,Avanza,2018,55.000-60.000
+163500000,Tanah Abang,Toyota,Avanza,2018,55.000-60.000
+163500000,Tambora,Toyota,Avanza,2018,55.000-60.000
+163500000,Kembangan,Toyota,Avanza,2018,55.000-60.000
+335000000,Cempaka Putih,Volkswagen,Tiguan Allspace,2018,40.000-45.000
+169000000,Pademangan,Honda,BR-V,2016,115.000-120.000
+172000000,Pancoran,Mazda,2,2016,70.000-75.000
+245000000,Pantai Indah Kapuk,Toyota,Avanza,2022,25.000-30.000
+292000000,Gambir,Honda,HR-V,2021,25.000-30.000
+389000000,Cilangkap,Honda,CR-V,2019,30.000-35.000
+318000000,Kebayoran Baru,Honda,CR-V,2017,110.000-115.000
+121500000,Palmerah,Honda,Brio Satya,2018,100.000-105.000
+175000000,Cilangkap,Suzuki,Baleno,2020,40.000-45.000
+125000000,Grogol Petamburan,Toyota,Vios,2014,95.000-100.000
+80000000,Pademangan,Daihatsu,Ayla,2016,65.000-70.000
+80000000,Jatinegara,Daihatsu,Ayla,2016,65.000-70.000
+80000000,Cilandak,Daihatsu,Ayla,2016,65.000-70.000
+80000000,Menteng,Daihatsu,Ayla,2016,65.000-70.000
+80000000,Palmerah,Daihatsu,Ayla,2016,65.000-70.000
+80000000,Kembangan,Daihatsu,Ayla,2016,65.000-70.000
+148000000,Tanjung Duren,Honda,Brio Satya,2022,25.000-30.000
+148000000,Ciracas,Honda,Brio Satya,2022,25.000-30.000
+148000000,Kebayoran Baru,Honda,Brio Satya,2022,25.000-30.000
+148000000,Kembangan,Honda,Brio Satya,2022,25.000-30.000
+389000000,Tanjung Barat,Honda,CR-V,2019,30.000-35.000
+389000000,Kemang,Honda,CR-V,2019,30.000-35.000
+89500000,Ciracas,Suzuki,Splash,2014,90.000-95.000
+191000000,Tanjung Duren,Toyota,Camry,2014,60.000-65.000
+128000000,Jatinegara,Wuling,Cortez,2018,30.000-35.000
+134000000,Cakung,Honda,Mobilio,2014,85.000-90.000
+165000000,Duren Sawit,Toyota,Nav1,2013,85.000-90.000
+152500000,Jagakarsa,Nissan,Serena,2014,85.000-90.000
+142000000,Pantai Indah Kapuk,Toyota,Agya,2022,10.000-15.000
+151000000,Jagakarsa,Honda,Freed,2013,125.000-130.000
+389000000,Tanjung Priok,Honda,CR-V,2019,30.000-35.000
+389000000,Jatinegara,Honda,CR-V,2019,30.000-35.000
+389000000,Pasar Minggu,Honda,CR-V,2019,30.000-35.000
+389000000,Kebayoran Lama,Honda,CR-V,2019,30.000-35.000
+389000000,Tanah Abang,Honda,CR-V,2019,30.000-35.000
+389000000,Grogol Petamburan,Honda,CR-V,2019,30.000-35.000
+389000000,Cengkareng,Honda,CR-V,2019,30.000-35.000
+158000000,Cibubur,Toyota,Sienta,2017,115.000-120.000
+158000000,Pademangan,Toyota,Sienta,2017,115.000-120.000
+158000000,Duren Sawit,Toyota,Sienta,2017,115.000-120.000
+158000000,Tebet,Toyota,Sienta,2017,115.000-120.000
+158000000,Pasar Minggu,Toyota,Sienta,2017,115.000-120.000
+231000000,Jagakarsa,Toyota,Yaris,2021,5.000
+111000000,Cengkareng,Suzuki,Ignis,2018,100.000-105.000
+225000000,Pancoran,Suzuki,XL7,2022,20.000-25.000
+134000000,Cengkareng,Toyota,Agya,2020,30.000-35.000
+1400000000,Pasar Minggu,BMW,X5,2021,30.000-35.000
+123000000,Grogol Petamburan,Nissan,Grand livina,2017,100.000-105.000
+152500000,Grogol Petamburan,Suzuki,Baleno,2018,100.000-105.000
+625000000,Kemayoran,Toyota,Alphard,2015,75.000-80.000
+158000000,Jagakarsa,Toyota,Sienta,2017,115.000-120.000
+158000000,Cilandak,Toyota,Sienta,2017,115.000-120.000
+158000000,Tanah Abang,Toyota,Sienta,2017,115.000-120.000
+158000000,Grogol Petamburan,Toyota,Sienta,2017,115.000-120.000
+158000000,Cengkareng,Toyota,Sienta,2017,115.000-120.000
+123000000,Tanjung Barat,Suzuki,Ignis,2019,90.000-95.000
+123000000,Kemang,Suzuki,Ignis,2019,90.000-95.000
+123000000,Pademangan,Suzuki,Ignis,2019,90.000-95.000
+123000000,Kramat Jati,Suzuki,Ignis,2019,90.000-95.000
+123000000,Cakung,Suzuki,Ignis,2019,90.000-95.000
+123000000,Pesanggrahan,Suzuki,Ignis,2019,90.000-95.000
+123000000,Pasar Minggu,Suzuki,Ignis,2019,90.000-95.000
+207500000,Grogol Petamburan,Honda,HR-V,2017,65.000-70.000
+159000000,Kelapa Gading,Toyota,Sienta,2018,30.000-35.000
+206000000,Palmerah,Toyota,Yaris,2018,115.000-120.000
+230000000,Pesanggrahan,Toyota,Corolla Altis,2018,45.000-50.000
+152500000,Pancoran,Suzuki,Baleno,2019,65.000-70.000
+116000000,Kebayoran Lama,Suzuki,Ertiga,2015,75.000-80.000
+450000000,Jakarta Selatan,BMW,X1,2020,30.000-35.000
+180500000,Pantai Indah Kapuk,Honda,Mobilio,2021,25.000-30.000
+123000000,Kebayoran Lama,Suzuki,Ignis,2019,90.000-95.000
+123000000,Tanah Abang,Suzuki,Ignis,2019,90.000-95.000
+123000000,Grogol Petamburan,Suzuki,Ignis,2019,90.000-95.000
+123000000,Cengkareng,Suzuki,Ignis,2019,90.000-95.000
+126000000,Tanjung Barat,Honda,Brio Satya,2018,95.000-100.000
+126000000,Pekayon,Honda,Brio Satya,2018,95.000-100.000
+126000000,Kemang,Honda,Brio Satya,2018,95.000-100.000
+126000000,Kramat Jati,Honda,Brio Satya,2018,95.000-100.000
+126000000,Duren Sawit,Honda,Brio Satya,2018,95.000-100.000
+126000000,Ciracas,Honda,Brio Satya,2018,95.000-100.000
+126000000,Cakung,Honda,Brio Satya,2018,95.000-100.000
+126000000,Kebayoran Lama,Honda,Brio Satya,2018,95.000-100.000
+85000000,Jatinegara,Toyota,Agya,2014,100.000-105.000
+136500000,Jagakarsa,Toyota,Avanza,2015,80.000-85.000
+95000000,Cakung,Toyota,Agya,2015,75.000-80.000
+2470000000,Tebet,Wuling,Almaz RS,2021,10.000-15.000
+98500000,Pancoran,Honda,Brio,2013,100.000-105.000
+139000000,Setia Budi,Nissan,Elgrand,2008,150.000-155.000
+325000000,Menteng,Toyota,Kijang Innova,2018,90.000-95.000
+625000000,Tebet,BMW,520i,2018,30.000-35.000
+126000000,Kembangan,Honda,Brio Satya,2018,95.000-100.000
+126000000,Grogol Petamburan,Honda,Brio Satya,2018,95.000-100.000
+126000000,Cengkareng,Honda,Brio Satya,2018,95.000-100.000
+140000000,Tanjung Barat,Honda,Freed,2013,95.000-100.000
+140000000,Pekayon,Honda,Freed,2013,95.000-100.000
+140000000,Kemang,Honda,Freed,2013,95.000-100.000
+140000000,Pademangan,Honda,Freed,2013,95.000-100.000
+140000000,Cakung,Honda,Freed,2013,95.000-100.000
+140000000,Pesanggrahan,Honda,Freed,2013,95.000-100.000
+140000000,Pasar Minggu,Honda,Freed,2013,95.000-100.000
+140000000,Kebayoran Lama,Honda,Freed,2013,95.000-100.000
+140000000,Kemayoran,Honda,Freed,2013,95.000-100.000
+137000000,Grogol Petamburan,Toyota,Yaris,2015,55.000-60.000
+128000000,Setia Budi,Daihatsu,Terios,2015,85.000-90.000
+217000000,Kelapa Gading,Mitsubishi,Xpander,2019,35.000-40.000
+64000000,Kramat Jati,Daihatsu,Ayla,2016,80.000-85.000
+423000000,Jagakarsa,Honda,CR-V,2021,30.000-35.000
+180000000,Kalideres,Honda,HR-V,2015,90.000-95.000
+81000000,Makasar,Daihatsu,Ayla,2017,75.000-80.000
+238000000,Cilandak,Lexus,RX 270,2011,85.000-90.000
+140000000,Grogol Petamburan,Honda,Freed,2013,95.000-100.000
+140000000,Cengkareng,Honda,Freed,2013,95.000-100.000
+85000000,Cilangkap,Toyota,Agya,2014,100.000-105.000
+85000000,Tanjung Barat,Toyota,Agya,2014,100.000-105.000
+85000000,Kemang,Toyota,Agya,2014,100.000-105.000
+85000000,Pademangan,Toyota,Agya,2014,100.000-105.000
+85000000,Ciracas,Toyota,Agya,2014,100.000-105.000
+85000000,Kebayoran Lama,Toyota,Agya,2014,100.000-105.000
+85000000,Tanah Abang,Toyota,Agya,2014,100.000-105.000
+85000000,Palmerah,Toyota,Agya,2014,100.000-105.000
+85000000,Grogol Petamburan,Toyota,Agya,2014,100.000-105.000
+85000000,Cengkareng,Toyota,Agya,2014,100.000-105.000
+115500000,Kebayoran Lama,Toyota,Calya,2019,70.000-75.000
+202000000,Menteng,Mitsubishi,Xpander,2019,30.000-35.000
+89000000,Pancoran,Toyota,Agya,2014,85.000-90.000
+123000000,Pasar Minggu,Toyota,Yaris,2013,135.000-140.000
+197500000,Tanjung Barat,Mitsubishi,Xpander,2018,60.000-65.000
+144000000,Kemayoran,Honda,Mobilio,2017,125.000-130.000
+150000000,Kebayoran Baru,Honda,Mobilio,2017,80.000-85.000
+175000000,Menteng,Suzuki,SX4,2018,60.000-65.000
+200000000,Cilandak,Suzuki,Ertiga,2022,25.000-30.000
+134500000,Cilangkap,Toyota,Sienta,2016,70.000-75.000
+134500000,Tanjung Barat,Toyota,Sienta,2016,70.000-75.000
+134500000,Kemang,Toyota,Sienta,2016,70.000-75.000
+134500000,Tanjung Priok,Toyota,Sienta,2016,70.000-75.000
+134500000,Jatinegara,Toyota,Sienta,2016,70.000-75.000
+134500000,Cipayung,Toyota,Sienta,2016,70.000-75.000
+134500000,Pasar Minggu,Toyota,Sienta,2016,70.000-75.000
+108000000,Ciracas,Suzuki,Ertiga,2013,60.000-65.000
+209000000,Pasar Baru,Suzuki,XL7,2020,20.000-25.000
+106000000,Tebet,Toyota,Agya,2018,75.000-80.000
+122000000,Kalideres,Daihatsu,Terios,2015,135.000-140.000
+192000000,Pasar Minggu,Wuling,Almaz,2019,50.000-55.000
+1295000000,Kelapa Gading,Mercedes-Benz,E300,2019,5.000-10.000
+161000000,Cakung,Toyota,Sienta,2016,75.000-80.000
+100000000,Ciracas,Honda,Brio,2013,100.000-105.000
+134500000,Cempaka Putih,Toyota,Sienta,2016,70.000-75.000
+134500000,Kalideres,Toyota,Sienta,2016,70.000-75.000
+134500000,Grogol Petamburan,Toyota,Sienta,2016,70.000-75.000
+134500000,Cengkareng,Toyota,Sienta,2016,70.000-75.000
+132500000,Cilangkap,Honda,Mobilio,2016,60.000-65.000
+132500000,Pekayon,Honda,Mobilio,2016,60.000-65.000
+132500000,Jatinegara,Honda,Mobilio,2016,60.000-65.000
+132500000,Duren Sawit,Honda,Mobilio,2016,60.000-65.000
+132500000,Ciracas,Honda,Mobilio,2016,60.000-65.000
+132500000,Pasar Minggu,Honda,Mobilio,2016,60.000-65.000
+132500000,Kebayoran Lama,Honda,Mobilio,2016,60.000-65.000
+132500000,Jagakarsa,Honda,Mobilio,2016,60.000-65.000
+176000000,Cilandak,Suzuki,SX4,2018,70.000-75.000
+130000000,Cengkareng,Nissan,Grand livina,2017,30.000-35.000
+96000000,Duren Sawit,Honda,Brio Satya,2015,90.000-95.000
+136000000,Pademangan,Nissan,Serena,2014,115.000-120.000
+113500000,Cakung,Toyota,Calya,2019,125.000-130.000
+175000000,Cempaka Putih,Toyota,Kijang Innova,2014,115.000-120.000
+144000000,Cilandak,Toyota,Avanza,2017,120.000-125.000
+153500000,Penjaringan,Toyota,Sienta,2017,115.000-120.000
+132500000,Taman Sari,Honda,Mobilio,2016,60.000-65.000
+132500000,Grogol Petamburan,Honda,Mobilio,2016,60.000-65.000
+132500000,Cengkareng,Honda,Mobilio,2016,60.000-65.000
+128000000,Cilangkap,Honda,Brio Satya,2018,70.000-75.000
+128000000,Kelapa Gading,Honda,Brio Satya,2018,70.000-75.000
+128000000,Jatinegara,Honda,Brio Satya,2018,70.000-75.000
+128000000,Cipayung,Honda,Brio Satya,2018,70.000-75.000
+128000000,Pasar Minggu,Honda,Brio Satya,2018,70.000-75.000
+128000000,Kebayoran Lama,Honda,Brio Satya,2018,70.000-75.000
+128000000,Jagakarsa,Honda,Brio Satya,2018,70.000-75.000
+128000000,Tanah Abang,Honda,Brio Satya,2018,70.000-75.000
+128000000,Palmerah,Honda,Brio Satya,2018,70.000-75.000
+137000000,Pantai Indah Kapuk,Toyota,Yaris,2015,55.000-60.000
+191000000,Kembangan,Wuling,Almaz,2019,30.000-35.000
+133000000,Makasar,Suzuki,Ertiga,2015,55.000-60.000
+87000000,Pancoran,Daihatsu,Ayla,2018,60.000-65.000
+133000000,Cengkareng,Honda,Brio,2017,70.000-75.000
+140000000,Cilandak,Volkswagen,Touran,2014,80.000-85.000
+350000000,Kebayoran Baru,Mitsubishi,Pajero Sport,2016,80.000-85.000
+115000000,Cilandak,Suzuki,Ertiga,2013,90.000-95.000
+128000000,Grogol Petamburan,Honda,Brio Satya,2018,70.000-75.000
+128000000,Cengkareng,Honda,Brio Satya,2018,70.000-75.000
+112000000,Pekayon,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Pantai Indah Kapuk,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Kemang,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Duren Sawit,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Ciracas,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Pesanggrahan,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Kebayoran Lama,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Cempaka Putih,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Kalideres,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Grogol Petamburan,Daihatsu,Xenia,2016,145.000-150.000
+155000000,Palmerah,Honda,BR-V,2017,125.000-130.000
+172000000,Kebon Jeruk,Toyota,Yaris,2018,10.000-15.000
+194000000,Cilandak,Honda,HR-V,2016,70.000-75.000
+330000000,Kebon Jeruk,Toyota,Fortuner,2017,65.000-70.000
+392000000,Cilincing,Mazda,CX-5,2019,80.000-85.000
+175000000,Kebayoran Baru,Honda,Freed,2013,45.000-50.000
+197000000,Pademangan,Nissan,Livina,2019,100.000-105.000
+165000000,Cibubur,Toyota,Nav1,2013,85.000-90.000
+112000000,Cengkareng,Daihatsu,Xenia,2016,145.000-150.000
+193500000,Cilangkap,Toyota,Rush,2018,55.000-60.000
+193500000,Tanjung Duren,Toyota,Rush,2018,55.000-60.000
+193500000,Tanjung Barat,Toyota,Rush,2018,55.000-60.000
+193500000,Kemang,Toyota,Rush,2018,55.000-60.000
+193500000,Tanjung Priok,Toyota,Rush,2018,55.000-60.000
+193500000,Jatinegara,Toyota,Rush,2018,55.000-60.000
+193500000,Ciracas,Toyota,Rush,2018,55.000-60.000
+193500000,Pasar Minggu,Toyota,Rush,2018,55.000-60.000
+193500000,Grogol Petamburan,Toyota,Rush,2018,55.000-60.000
+193500000,Cengkareng,Toyota,Rush,2018,55.000-60.000
+157500000,Pekayon,Toyota,Sienta,2016,80.000-85.000
+407000000,Kramat Jati,Toyota,Camry,2019,85.000-90.000
+192000000,Cakung,Toyota,Rush,2018,80.000-85.000
+384000000,Cempaka Putih,Honda,CR-V,2017,120.000-125.000
+327000000,Kelapa Gading,Mitsubishi,Pajero Sport,2016,145.000-150.000
+102000000,Pademangan,Daihatsu,Ayla,2018,90.000-95.000
+119000000,Kemayoran,Honda,Mobilio,2014,85.000-90.000
+394000000,Kebayoran Baru,Honda,CR-V,2019,70.000-75.000
+120500000,Cakung,Honda,Mobilio,2014,110.000-115.000
+157500000,Kramat Jati,Toyota,Sienta,2016,80.000-85.000
+157500000,Duren Sawit,Toyota,Sienta,2016,80.000-85.000
+157500000,Ciracas,Toyota,Sienta,2016,80.000-85.000
+157500000,Cakung,Toyota,Sienta,2016,80.000-85.000
+157500000,Pesanggrahan,Toyota,Sienta,2016,80.000-85.000
+157500000,Pancoran,Toyota,Sienta,2016,80.000-85.000
+157500000,Kebayoran Lama,Toyota,Sienta,2016,80.000-85.000
+157500000,Palmerah,Toyota,Sienta,2016,80.000-85.000
+157500000,Grogol Petamburan,Toyota,Sienta,2016,80.000-85.000
+157500000,Cengkareng,Toyota,Sienta,2016,80.000-85.000
+163500000,Cilangkap,Honda,Mobilio,2018,95.000-100.000
+163500000,Pekayon,Honda,Mobilio,2018,95.000-100.000
+133000000,Duren Sawit,Toyota,Sienta,2017,105.000-110.000
+139000000,Duren Sawit,Toyota,Rush,2013,115.000-120.000
+123000000,Ciracas,Daihatsu,Sigra,2019,65.000-70.000
+170000000,Tebet,Mazda,2,2016,60.000-65.000
+155000000,Cakung,Toyota,Avanza,2016,75.000-80.000
+122000000,Kramat Jati,Chevrolet,Captiva,2013,125.000-130.000
+192000000,Cibubur,Toyota,Rush,2018,95.000-100.000
+204000000,Cakung,Honda,HR-V,2017,90.000-95.000
+163500000,Jatinegara,Honda,Mobilio,2018,95.000-100.000
+163500000,Duren Sawit,Honda,Mobilio,2018,95.000-100.000
+163500000,Ciracas,Honda,Mobilio,2018,95.000-100.000
+163500000,Pasar Minggu,Honda,Mobilio,2018,95.000-100.000
+163500000,Kebayoran Lama,Honda,Mobilio,2018,95.000-100.000
+163500000,Jagakarsa,Honda,Mobilio,2018,95.000-100.000
+163500000,Taman Sari,Honda,Mobilio,2018,95.000-100.000
+163500000,Grogol Petamburan,Honda,Mobilio,2018,95.000-100.000
+163500000,Cengkareng,Honda,Mobilio,2018,95.000-100.000
+135500000,Pekayon,Honda,Brio,2017,45.000-50.000
+135500000,Pasar Baru,Honda,Brio,2017,45.000-50.000
+135500000,Kelapa Gading,Honda,Brio,2017,45.000-50.000
+112000000,Tebet,Daihatsu,Sirion,2015,85.000-90.000
+341000000,Cempaka Putih,Toyota,Kijang Innova,2019,45.000-50.000
+211500000,Kemang,Suzuki,Ertiga,2022,15.000-20.000
+93000000,Cengkareng,Daihatsu,Ayla,2017,35.000-40.000
+111000000,Cilangkap,Daihatsu,Ayla,2019,40.000-45.000
+192000000,Duren Sawit,Mitsubishi,Xpander,2019,45.000-50.000
+199000000,Tambora,Mitsubishi,Xpander,2018,45.000-50.000
+399000000,Pademangan,Honda,CR-V,2019,75.000-80.000
+135500000,Kramat Jati,Honda,Brio,2017,45.000-50.000
+135500000,Duren Sawit,Honda,Brio,2017,45.000-50.000
+135500000,Tebet,Honda,Brio,2017,45.000-50.000
+135500000,Pasar Minggu,Honda,Brio,2017,45.000-50.000
+135500000,Cilandak,Honda,Brio,2017,45.000-50.000
+135500000,Kembangan,Honda,Brio,2017,45.000-50.000
+135500000,Grogol Petamburan,Honda,Brio,2017,45.000-50.000
+135500000,Cengkareng,Honda,Brio,2017,45.000-50.000
+195000000,Kebon Jeruk,Honda,Jazz,2020,45.000-50.000
+230000000,Cilandak,Toyota,Altis,2018,85.000-90.000
+142000000,Pekayon,Toyota,Sienta,2017,115.000-120.000
+142000000,Kramat Jati,Toyota,Sienta,2017,115.000-120.000
+111000000,Jagakarsa,Honda,Brio Satya,2017,30.000-35.000
+90000000,Kramat Jati,Suzuki,Karimun Wagon R,2019,50.000-55.000
+88500000,Cilincing,Mitsubishi,Mirage,2016,90.000-95.000
+249000000,Penjaringan,Honda,HR-V,2020,35.000-40.000
+118000000,Pademangan,Toyota,Agya,2020,25.000-30.000
+138000000,Cipayung,Toyota,Calya,2021,15.000-20.000
+142000000,Duren Sawit,Toyota,Sienta,2017,115.000-120.000
+142000000,Ciracas,Toyota,Sienta,2017,115.000-120.000
+142000000,Cakung,Toyota,Sienta,2017,115.000-120.000
+142000000,Pesanggrahan,Toyota,Sienta,2017,115.000-120.000
+142000000,Pancoran,Toyota,Sienta,2017,115.000-120.000
+142000000,Kebayoran Lama,Toyota,Sienta,2017,115.000-120.000
+142000000,Palmerah,Toyota,Sienta,2017,115.000-120.000
+142000000,Grogol Petamburan,Toyota,Sienta,2017,115.000-120.000
+142000000,Cengkareng,Toyota,Sienta,2017,115.000-120.000
+285000000,Kramat Jati,Mercedes-Benz,C250,2012,40.000-45.000
+75000000,Kebayoran Baru,Honda,Odyssey,2001,85.000-90.000
+395000000,Kebayoran Lama,Toyota,Fortuner,2019,65.000-70.000
+158000000,Kemayoran,Toyota,Avanza,2018,70.000-75.000
+220000000,Makasar,Honda,HR-V,2017,65.000-70.000
+227000000,Kelapa Gading,Mitsubishi,Xpander,2019,15.000-20.000
+106000000,Kelapa Gading,Suzuki,Ignis,2017,80.000-85.000
+239500000,Tebet,Honda,HR-V,2018,45.000-50.000
+145500000,Daan Mogot,Honda,Mobilio,2017,125.000-130.000
+174000000,Duren Sawit,Daihatsu,Terios,2019,70.000-75.000
+165500000,Grogol Petamburan,Suzuki,Ertiga,2019,70.000-75.000
+210000000,Duren Sawit,Toyota,Raize,2021,40.000-45.000
+150000000,Kemayoran,Daihatsu,Xenia,2019,50.000-55.000
+140000000,Cibubur,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Kramat Jati,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Duren Sawit,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Cakung,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Tebet,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Pancoran,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Jagakarsa,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Palmerah,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Grogol Petamburan,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Cengkareng,Daihatsu,Xenia,2018,100.000-105.000
+152000000,Tebet,Daihatsu,Terios,2016,75.000-80.000
+126000000,Cengkareng,Suzuki,Ertiga,2017,95.000-100.000
+705000000,Kebon Jeruk,Mercedes-Benz,GL400,2015,35.000-40.000
+97000000,Kramat Jati,Wuling,Confero,2021,30.000-35.000
+108000000,Cempaka Putih,Daihatsu,Sigra,2023,15.000-20.000
+186000000,Pekayon,Suzuki,Baleno,2020,30.000-35.000
+195000000,Kebayoran Lama,Toyota,Camry,2013,70.000-75.000
+116000000,Cilangkap,Nissan,Livina,2013,35.000-40.000
+114000000,Cilangkap,Toyota,Calya,2016,45.000-50.000
+685000000,Kemang,Hyundai,Ioniq 5,2023,5.000-10.000
+530000000,Kelapa Gading,Mercedes-Benz,C250,2016,15.000-20.000
+103000000,Kemayoran,Ford,Ecosport,2014,90.000-95.000
+250000000,Grogol Petamburan,Hyundai,Creta,2022,5.000-10.000
+97000000,Cilangkap,Toyota,Calya,2016,90.000-95.000
+97000000,Tanjung Barat,Toyota,Calya,2016,90.000-95.000
+97000000,Kelapa Gading,Toyota,Calya,2016,90.000-95.000
+97000000,Pasar Minggu,Toyota,Calya,2016,90.000-95.000
+97000000,Kebayoran Lama,Toyota,Calya,2016,90.000-95.000
+157500000,Cilandak,DFSK,Glory 580,2023,5.000
+51000000,Jatinegara,Peugeot,406,2004,125.000-130.000
+150000000,Cengkareng,Daihatsu,Xenia,2019,55.000-60.000
+218000000,Cempaka Putih,Honda,HR-V,2018,45.000-50.000
+97000000,Jagakarsa,Toyota,Calya,2016,90.000-95.000
+97000000,Sawah Besar,Toyota,Calya,2016,90.000-95.000
+97000000,Grogol Petamburan,Toyota,Calya,2016,90.000-95.000
+97000000,Cengkareng,Toyota,Calya,2016,90.000-95.000
+7200000000,Cilandak,Mercedes-Benz,G63,2023,5.000
+118000000,Jakarta Selatan,Mazda,2,2013,60.000-65.000
+270000000,Jakarta Selatan,Nissan,Elgrand,2013,70.000-75.000
+180000000,Tanjung Barat,Honda,Brio,2021,20.000-25.000
+180000000,Pekayon,Honda,Brio,2021,20.000-25.000
+180000000,Pantai Indah Kapuk,Honda,Brio,2021,20.000-25.000
+180000000,Kemang,Honda,Brio,2021,20.000-25.000
+180000000,Duren Sawit,Honda,Brio,2021,20.000-25.000
+169000000,Cilandak,Toyota,Sienta,2017,60.000-65.000
+67000000,Duren Sawit,Nissan,Grand livina,2011,120.000-125.000
+350000000,Cilincing,Honda,CR-V,2017,95.000-100.000
+108500000,Palmerah,Honda,Brio Satya,2016,80.000-85.000
+129000000,Duren Sawit,Honda,Brio Satya,2018,85.000-90.000
+211000000,Cempaka Putih,Honda,HR-V,2017,65.000-70.000
+229000000,Penjaringan,Honda,HR-V,2018,70.000-75.000
+249000000,Cengkareng,Mazda,2,2020,60.000-65.000
+108500000,Jatinegara,Suzuki,Ertiga,2013,50.000-55.000
+108500000,Kembangan,Suzuki,Ertiga,2013,50.000-55.000
+123000000,Kramat Jati,Toyota,Calya,2019,75.000-80.000
+164000000,Kemang,Daihatsu,Xenia,2019,25.000-30.000
+164000000,Tebet,Daihatsu,Xenia,2019,25.000-30.000
+164000000,Palmerah,Daihatsu,Xenia,2019,25.000-30.000
+80000000,Cakung,Daihatsu,Ayla,2016,95.000-100.000
+80000000,Kebayoran Lama,Daihatsu,Ayla,2016,95.000-100.000
+80000000,Grogol Petamburan,Daihatsu,Ayla,2016,95.000-100.000
+252000000,Kramat Jati,Mazda,2,2020,60.000-65.000
+210000000,Duren Sawit,Honda,HR-V,2018,70.000-75.000
+900000000,Cilandak,Lexus,RX300,2018,45.000-50.000
+200000000,Cempaka Putih,Honda,HR-V,2017,125.000-130.000
+126000000,Tanah Abang,Suzuki,Ertiga,2015,75.000-80.000
+137000000,Kramat Jati,Daihatsu,Xenia,2018,75.000-80.000
+163000000,Cibubur,Toyota,Yaris,2016,75.000-80.000
+151000000,Grogol Petamburan,Honda,Brio Satya,2019,40.000-45.000
+159000000,Pasar Minggu,Toyota,Sienta,2018,30.000-35.000
+372000000,Kemayoran,Honda,CR-V,2018,45.000-50.000
+185000000,Grogol Petamburan,Wuling,Air EV,2022,5.000
+117500000,Cibubur,Nissan,Grand livina,2016,65.000-70.000
+117500000,Kemang,Nissan,Grand livina,2016,65.000-70.000
+117500000,Kramat Jati,Nissan,Grand livina,2016,65.000-70.000
+117500000,Duren Sawit,Nissan,Grand livina,2016,65.000-70.000
+117500000,Cakung,Nissan,Grand livina,2016,65.000-70.000
+117500000,Kebayoran Lama,Nissan,Grand livina,2016,65.000-70.000
+117500000,Palmerah,Nissan,Grand livina,2016,65.000-70.000
+117500000,Cengkareng,Nissan,Grand livina,2016,65.000-70.000
+358000000,Cilangkap,Toyota,Fortuner,2018,50.000-55.000
+358000000,Tanjung Barat,Toyota,Fortuner,2018,50.000-55.000
+358000000,Pasar Minggu,Toyota,Fortuner,2018,50.000-55.000
+358000000,Kebayoran Lama,Toyota,Fortuner,2018,50.000-55.000
+233000000,Kemang,Toyota,Kijang Innova,2017,80.000-85.000
+341000000,Pasar Minggu,Toyota,Voxy,2018,80.000-85.000
+179000000,Pasar Minggu,Wuling,Almaz,2019,40.000-45.000
+243000000,Setia Budi,Toyota,Kijang Innova,2017,80.000-85.000
+361647000,Cilandak,Hyundai,Creta,2023,5.000
+277000000,Mampang Prapatan,Honda,HR-V,2020,75.000-80.000
+395000000,Penjaringan,Toyota,Voxy,2019,40.000-45.000
+111000000,Cengkareng,Daihatsu,Ayla,2018,10.000-15.000
+358000000,Kembangan,Toyota,Fortuner,2018,50.000-55.000
+358000000,Grogol Petamburan,Toyota,Fortuner,2018,50.000-55.000
+358000000,Cengkareng,Toyota,Fortuner,2018,50.000-55.000
+260000000,Pasar Minggu,Toyota,Kijang Innova,2019,65.000-70.000
+97000000,Tebet,Daihatsu,Gran max,2017,165.000-170.000
+365000000,Kemayoran,Mini,Cooper,2010,10.000-15.000
+265000000,Tebet,Toyota,Avanza,2022,5.000-10.000
+269000000,Setia Budi,Mercedes-Benz,C250,2012,70.000-75.000
+269000000,Kebayoran Baru,Mercedes-Benz,C250,2012,70.000-75.000
+125000000,Kembangan,Toyota,Camry,2009,130.000-135.000
+203000000,Setia Budi,Wuling,Almaz,2019,45.000-50.000
+1500000000,Kemayoran,Mercedes-Benz,S450L,2018,15.000-20.000
+113000000,Grogol Petamburan,Suzuki,Ignis,2019,30.000-35.000
+252000000,Kemang,Toyota,Rush,2022,15.000-20.000
+143000000,Pesanggrahan,Suzuki,Ertiga,2017,90.000-95.000
+87000000,Duren Sawit,Daihatsu,Ayla,2018,55.000-60.000
+185000000,Pademangan,Honda,Brio,2022,5.000-10.000
+75000000,Kembangan,Nissan,Grand livina,2011,90.000-95.000
+160000000,Kemayoran,Honda,Mobilio,2017,65.000-70.000
+183000000,Kemayoran,Toyota,Raize,2021,15.000-20.000
+207000000,Setia Budi,Mazda,2,2018,70.000-75.000
+225000000,Grogol Petamburan,Mitsubishi,Pajero Sport,2010,85.000-90.000
+147500000,Pulo Gadung,Toyota,Avanza,2017,60.000-65.000
+147500000,Tebet,Toyota,Avanza,2017,60.000-65.000
+147500000,Cengkareng,Toyota,Avanza,2017,60.000-65.000
+147500000,Kembangan,Toyota,Avanza,2017,60.000-65.000
+109000000,Kemang,Toyota,Calya,2018,45.000-50.000
+109000000,Kramat Jati,Toyota,Calya,2018,45.000-50.000
+109000000,Ciracas,Toyota,Calya,2018,45.000-50.000
+109000000,Kembangan,Toyota,Calya,2018,45.000-50.000
+285000000,Cilandak,Mercedes-Benz,C250,2012,40.000-45.000
+163500000,Kemang,Toyota,Avanza,2018,55.000-60.000
+198000000,Makasar,Toyota,Yaris,2019,15.000-20.000
+125000000,Makasar,Nissan,Grand livina,2017,50.000-55.000
+226000000,Pancoran,Toyota,Raize,2021,15.000-20.000
+91000000,Kebayoran Lama,Nissan,Grand livina,2013,85.000-90.000
+283000000,Kalideres,BMW,X3,2012,35.000-40.000
+200500000,Cibubur,Suzuki,XL7,2020,55.000-60.000
+55000000,Jagakarsa,Mitsubishi,Kuda,2004,195.000-200.000
+81000000,Cempaka Putih,Daihatsu,Ayla,2016,70.000-75.000
+163500000,Pademangan,Toyota,Avanza,2018,55.000-60.000
+163500000,Pasar Rebo,Toyota,Avanza,2018,55.000-60.000
+163500000,Duren Sawit,Toyota,Avanza,2018,55.000-60.000
+163500000,Ciracas,Toyota,Avanza,2018,55.000-60.000
+163500000,Tanah Abang,Toyota,Avanza,2018,55.000-60.000
+163500000,Tambora,Toyota,Avanza,2018,55.000-60.000
+163500000,Kembangan,Toyota,Avanza,2018,55.000-60.000
+335000000,Cempaka Putih,Volkswagen,Tiguan Allspace,2018,40.000-45.000
+169000000,Pademangan,Honda,BR-V,2016,115.000-120.000
+80000000,Pademangan,Daihatsu,Ayla,2016,65.000-70.000
+80000000,Jatinegara,Daihatsu,Ayla,2016,65.000-70.000
+80000000,Cilandak,Daihatsu,Ayla,2016,65.000-70.000
+135000000,Pancoran,Honda,Brio,2019,75.000-80.000
+100500000,Tambora,Daihatsu,Sigra,2016,35.000-40.000
+68000000,Tebet,Suzuki,Karimun Wagon R,2014,50.000-55.000
+90000000,Cengkareng,Daihatsu,Sigra,2017,90.000-95.000
+217000000,Pasar Minggu,Honda,HR-V,2017,35.000-40.000
+194000000,Jagakarsa,Nissan,Serena,2017,95.000-100.000
+450000000,Tebet,Mercedes-Benz,C250,2015,90.000-95.000
+101000000,Pesanggrahan,Daihatsu,Sigra,2016,120.000-125.000
+80000000,Menteng,Daihatsu,Ayla,2016,65.000-70.000
+80000000,Palmerah,Daihatsu,Ayla,2016,65.000-70.000
+80000000,Kembangan,Daihatsu,Ayla,2016,65.000-70.000
+148000000,Tanjung Duren,Honda,Brio Satya,2022,25.000-30.000
+148000000,Ciracas,Honda,Brio Satya,2022,25.000-30.000
+148000000,Kebayoran Baru,Honda,Brio Satya,2022,25.000-30.000
+148000000,Kembangan,Honda,Brio Satya,2022,25.000-30.000
+389000000,Cilangkap,Honda,CR-V,2019,30.000-35.000
+389000000,Tanjung Barat,Honda,CR-V,2019,30.000-35.000
+389000000,Kemang,Honda,CR-V,2019,30.000-35.000
+389000000,Tanjung Priok,Honda,CR-V,2019,30.000-35.000
+389000000,Jatinegara,Honda,CR-V,2019,30.000-35.000
+114500000,Kebayoran Lama,Daihatsu,Xenia,2017,85.000-90.000
+110000000,Pesanggrahan,Nissan,Grand livina,2017,90.000-95.000
+84000000,Jagakarsa,Toyota,Agya,2014,60.000-65.000
+169000000,Duren Sawit,Toyota,Sienta,2017,60.000-65.000
+180500000,Ciracas,Mitsubishi,Xpander,2017,115.000-120.000
+120000000,Cibubur,Nissan,Grand livina,2017,55.000-60.000
+192000000,Matraman,Toyota,Rush,2018,45.000-50.000
+100000000,Cilandak,Mitsubishi,L300,2015,255.000-260.000
+389000000,Pasar Minggu,Honda,CR-V,2019,30.000-35.000
+389000000,Kebayoran Lama,Honda,CR-V,2019,30.000-35.000
+389000000,Tanah Abang,Honda,CR-V,2019,30.000-35.000
+389000000,Grogol Petamburan,Honda,CR-V,2019,30.000-35.000
+389000000,Cengkareng,Honda,CR-V,2019,30.000-35.000
+158000000,Cibubur,Toyota,Sienta,2017,115.000-120.000
+158000000,Pademangan,Toyota,Sienta,2017,115.000-120.000
+158000000,Duren Sawit,Toyota,Sienta,2017,115.000-120.000
+158000000,Tebet,Toyota,Sienta,2017,115.000-120.000
+158000000,Pasar Minggu,Toyota,Sienta,2017,115.000-120.000
+158000000,Jagakarsa,Toyota,Sienta,2017,115.000-120.000
+158000000,Cilandak,Toyota,Sienta,2017,115.000-120.000
+135000000,Kelapa Gading,Honda,Freed,2013,95.000-100.000
+72000000,Duren Sawit,Datsun,Go+ Panca,2015,65.000-70.000
+201000000,Pasar Minggu,Nissan,Serena,2017,95.000-100.000
+99000000,Grogol Petamburan,Honda,Brio Satya,2015,55.000-60.000
+162000000,Penjaringan,Mazda,Biante,2015,70.000-75.000
+172500000,Duren Sawit,Honda,Brio,2022,5.000
+106000000,Cengkareng,Toyota,Calya,2016,50.000-55.000
+140000000,Ciracas,Kia,Sportage,2013,135.000-140.000
+158000000,Tanah Abang,Toyota,Sienta,2017,115.000-120.000
+158000000,Grogol Petamburan,Toyota,Sienta,2017,115.000-120.000
+158000000,Cengkareng,Toyota,Sienta,2017,115.000-120.000
+123000000,Tanjung Barat,Suzuki,Ignis,2019,90.000-95.000
+123000000,Kemang,Suzuki,Ignis,2019,90.000-95.000
+123000000,Pademangan,Suzuki,Ignis,2019,90.000-95.000
+123000000,Kramat Jati,Suzuki,Ignis,2019,90.000-95.000
+123000000,Cakung,Suzuki,Ignis,2019,90.000-95.000
+123000000,Pesanggrahan,Suzuki,Ignis,2019,90.000-95.000
+123000000,Pasar Minggu,Suzuki,Ignis,2019,90.000-95.000
+123000000,Kebayoran Lama,Suzuki,Ignis,2019,90.000-95.000
+123000000,Tanah Abang,Suzuki,Ignis,2019,90.000-95.000
+108000000,Cilandak,Daihatsu,Sigra,2017,20.000-25.000
+196000000,Jagakarsa,Mitsubishi,Xpander,2019,85.000-90.000
+100000000,Cilandak,Daihatsu,Ayla,2018,55.000-60.000
+128000000,Cibubur,Daihatsu,Ayla,2020,30.000-35.000
+86000000,Pantai Indah Kapuk,Daihatsu,Ayla,2016,160.000-165.000
+102000000,Kemayoran,Suzuki,Ignis,2017,60.000-65.000
+202000000,Ciracas,Toyota,Rush,2019,50.000-55.000
+299999000,Jagakarsa,Lexus,RX 270,2011,55.000-60.000
+123000000,Grogol Petamburan,Suzuki,Ignis,2019,90.000-95.000
+123000000,Cengkareng,Suzuki,Ignis,2019,90.000-95.000
+126000000,Tanjung Barat,Honda,Brio Satya,2018,95.000-100.000
+126000000,Pekayon,Honda,Brio Satya,2018,95.000-100.000
+126000000,Kemang,Honda,Brio Satya,2018,95.000-100.000
+126000000,Kramat Jati,Honda,Brio Satya,2018,95.000-100.000
+126000000,Duren Sawit,Honda,Brio Satya,2018,95.000-100.000
+126000000,Ciracas,Honda,Brio Satya,2018,95.000-100.000
+126000000,Cakung,Honda,Brio Satya,2018,95.000-100.000
+126000000,Kebayoran Lama,Honda,Brio Satya,2018,95.000-100.000
+126000000,Kembangan,Honda,Brio Satya,2018,95.000-100.000
+126000000,Grogol Petamburan,Honda,Brio Satya,2018,95.000-100.000
+245000000,Senen,Toyota,Avanza,2022,25.000-30.000
+237000000,Kebayoran Lama,Nissan,X-Trail,2017,105.000-110.000
+399000000,Cilandak,Toyota,Fortuner,2019,95.000-100.000
+104000000,Jagakarsa,Suzuki,Ignis,2017,25.000-30.000
+174000000,Tambora,Toyota,Kijang Innova,2015,90.000-95.000
+173000000,Cempaka Putih,Honda,Brio,2020,25.000-30.000
+225000000,Kebayoran Lama,Mitsubishi,Outlander Sport,2018,40.000-45.000
+180000000,Pesanggrahan,Toyota,Harrier,2009,120.000-125.000
+126000000,Cengkareng,Honda,Brio Satya,2018,95.000-100.000
+140000000,Tanjung Barat,Honda,Freed,2013,95.000-100.000
+140000000,Pekayon,Honda,Freed,2013,95.000-100.000
+140000000,Kemang,Honda,Freed,2013,95.000-100.000
+140000000,Pademangan,Honda,Freed,2013,95.000-100.000
+140000000,Cakung,Honda,Freed,2013,95.000-100.000
+140000000,Pesanggrahan,Honda,Freed,2013,95.000-100.000
+140000000,Pasar Minggu,Honda,Freed,2013,95.000-100.000
+140000000,Kebayoran Lama,Honda,Freed,2013,95.000-100.000
+140000000,Kemayoran,Honda,Freed,2013,95.000-100.000
+140000000,Grogol Petamburan,Honda,Freed,2013,95.000-100.000
+140000000,Cengkareng,Honda,Freed,2013,95.000-100.000
+149000000,Pasar Minggu,Suzuki,SX4,2018,105.000-110.000
+164000000,Tigaraksa,Mazda,Biante,2010,130.000-135.000
+87000000,Kelapa Gading,Daihatsu,Ayla,2020,35.000-40.000
+112000000,Pesanggrahan,Daihatsu,Xenia,2016,145.000-150.000
+172000000,Duren Sawit,Honda,BR-V,2018,55.000-60.000
+190000000,Pasar Minggu,Toyota,Rush,2018,80.000-85.000
+179000000,Pasar Minggu,Honda,Jazz,2017,60.000-65.000
+168500000,Cibubur,Suzuki,SX4,2018,50.000-55.000
+85000000,Cilangkap,Toyota,Agya,2014,100.000-105.000
+85000000,Tanjung Barat,Toyota,Agya,2014,100.000-105.000
+85000000,Kemang,Toyota,Agya,2014,100.000-105.000
+85000000,Pademangan,Toyota,Agya,2014,100.000-105.000
+85000000,Jatinegara,Toyota,Agya,2014,100.000-105.000
+85000000,Ciracas,Toyota,Agya,2014,100.000-105.000
+85000000,Kebayoran Lama,Toyota,Agya,2014,100.000-105.000
+85000000,Tanah Abang,Toyota,Agya,2014,100.000-105.000
+85000000,Palmerah,Toyota,Agya,2014,100.000-105.000
+85000000,Grogol Petamburan,Toyota,Agya,2014,100.000-105.000
+85000000,Cengkareng,Toyota,Agya,2014,100.000-105.000
+200000000,Cilandak,Suzuki,Ertiga,2022,25.000-30.000
+69000000,Cengkareng,Datsun,Go+ Panca,2014,60.000-65.000
+126000000,Kembangan,Honda,Brio,2017,45.000-50.000
+187000000,Cibubur,Mitsubishi,Xpander,2019,40.000-45.000
+300000000,Kebayoran Lama,Toyota,Camry,2018,65.000-70.000
+1950000000,Pademangan,Toyota,Land Cruiser,2017,40.000-45.000
+197000000,Pasar Minggu,Mitsubishi,Xpander,2019,80.000-85.000
+172000000,Jagakarsa,Honda,City,2015,50.000-55.000
+153000000,Palmerah,Suzuki,Baleno,2018,95.000-100.000
+134500000,Cilangkap,Toyota,Sienta,2016,70.000-75.000
+134500000,Tanjung Barat,Toyota,Sienta,2016,70.000-75.000
+134500000,Kemang,Toyota,Sienta,2016,70.000-75.000
+134500000,Tanjung Priok,Toyota,Sienta,2016,70.000-75.000
+134500000,Jatinegara,Toyota,Sienta,2016,70.000-75.000
+134500000,Cipayung,Toyota,Sienta,2016,70.000-75.000
+134500000,Pasar Minggu,Toyota,Sienta,2016,70.000-75.000
+134500000,Cempaka Putih,Toyota,Sienta,2016,70.000-75.000
+134500000,Kalideres,Toyota,Sienta,2016,70.000-75.000
+134500000,Grogol Petamburan,Toyota,Sienta,2016,70.000-75.000
+134500000,Cengkareng,Toyota,Sienta,2016,70.000-75.000
+87000000,Grogol Petamburan,Toyota,Limo,2016,85.000-90.000
+210000000,Cakung,Honda,HR-V,2017,55.000-60.000
+195000000,Cempaka Putih,Toyota,Sienta,2017,35.000-40.000
+149500000,Pasar Minggu,Honda,Mobilio,2018,95.000-100.000
+125000000,Cibubur,Suzuki,Ignis,2018,100.000-105.000
+125000000,Tebet,Honda,Jazz,2013,85.000-90.000
+251000000,Kembangan,Toyota,Avanza,2022,15.000-20.000
+155000000,Kelapa Gading,Suzuki,Ertiga,2018,95.000-100.000
+353000000,Tanah Abang,Toyota,Altis,2020,30.000-35.000
+132500000,Cilangkap,Honda,Mobilio,2016,60.000-65.000
+132500000,Pekayon,Honda,Mobilio,2016,60.000-65.000
+132500000,Jatinegara,Honda,Mobilio,2016,60.000-65.000
+132500000,Duren Sawit,Honda,Mobilio,2016,60.000-65.000
+132500000,Ciracas,Honda,Mobilio,2016,60.000-65.000
+132500000,Pasar Minggu,Honda,Mobilio,2016,60.000-65.000
+132500000,Kebayoran Lama,Honda,Mobilio,2016,60.000-65.000
+132500000,Jagakarsa,Honda,Mobilio,2016,60.000-65.000
+132500000,Taman Sari,Honda,Mobilio,2016,60.000-65.000
+132500000,Grogol Petamburan,Honda,Mobilio,2016,60.000-65.000
+132500000,Cengkareng,Honda,Mobilio,2016,60.000-65.000
+180000000,Pademangan,Toyota,Avanza,2019,65.000-70.000
+209000000,Kelapa Gading,Toyota,Rush,2020,35.000-40.000
+373000000,Kemayoran,Honda,CR-V,2017,65.000-70.000
+162000000,Cipayung,Honda,BR-V,2016,110.000-115.000
+194000000,Kemang,Suzuki,SX4,2020,55.000-60.000
+103500000,Grogol Petamburan,Daihatsu,Ayla,2021,35.000-40.000
+81000000,Kebon Jeruk,Daihatsu,Sirion,2012,125.000-130.000
+114000000,Cilandak,Suzuki,Ertiga,2013,60.000-65.000
+210000000,Kelapa Gading,Honda,HR-V,2018,55.000-60.000
+128000000,Cilangkap,Honda,Brio Satya,2018,70.000-75.000
+128000000,Kelapa Gading,Honda,Brio Satya,2018,70.000-75.000
+128000000,Jatinegara,Honda,Brio Satya,2018,70.000-75.000
+128000000,Cipayung,Honda,Brio Satya,2018,70.000-75.000
+128000000,Pasar Minggu,Honda,Brio Satya,2018,70.000-75.000
+128000000,Kebayoran Lama,Honda,Brio Satya,2018,70.000-75.000
+128000000,Jagakarsa,Honda,Brio Satya,2018,70.000-75.000
+128000000,Tanah Abang,Honda,Brio Satya,2018,70.000-75.000
+128000000,Palmerah,Honda,Brio Satya,2018,70.000-75.000
+128000000,Grogol Petamburan,Honda,Brio Satya,2018,70.000-75.000
+128000000,Cengkareng,Honda,Brio Satya,2018,70.000-75.000
+112000000,Pekayon,Daihatsu,Xenia,2016,145.000-150.000
+74000000,Cengkareng,Toyota,Etios Valco,2014,120.000-125.000
+159000000,Ciracas,Toyota,Rush,2017,60.000-65.000
+144000000,Tanah Abang,Honda,Freed,2013,95.000-100.000
+123000000,Grogol Petamburan,Daihatsu,Ayla,2020,40.000-45.000
+154000000,Cempaka Putih,Suzuki,Baleno,2017,40.000-45.000
+114500000,Kebon Jeruk,Honda,Mobilio,2014,95.000-100.000
+198000000,Pasar Minggu,Toyota,Yaris,2019,15.000-20.000
+231000000,Cengkareng,Honda,HR-V,2021,20.000-25.000
+112000000,Pantai Indah Kapuk,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Kemang,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Duren Sawit,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Ciracas,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Kebayoran Lama,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Cempaka Putih,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Kalideres,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Grogol Petamburan,Daihatsu,Xenia,2016,145.000-150.000
+112000000,Cengkareng,Daihatsu,Xenia,2016,145.000-150.000
+193500000,Cilangkap,Toyota,Rush,2018,55.000-60.000
+193500000,Tanjung Duren,Toyota,Rush,2018,55.000-60.000
+193500000,Tanjung Barat,Toyota,Rush,2018,55.000-60.000
+248000000,Jatinegara,Honda,HR-V,2021,120.000-125.000
+183000000,Cibubur,Honda,BR-V,2018,95.000-100.000
+192500000,Kemayoran,Honda,HR-V,2016,80.000-85.000
+104500000,Cilandak,Kia,Rio,2012,100.000-105.000
+194000000,Jatinegara,Nissan,Serena,2017,95.000-100.000
+152000000,Duren Sawit,Toyota,Rush,2016,85.000-90.000
+91000000,Kebayoran Lama,Toyota,Agya,2016,115.000-120.000
+95000000,Duren Sawit,Nissan,Terrano,2005,145.000-150.000
+193500000,Kemang,Toyota,Rush,2018,55.000-60.000
+193500000,Tanjung Priok,Toyota,Rush,2018,55.000-60.000
+193500000,Jatinegara,Toyota,Rush,2018,55.000-60.000
+193500000,Ciracas,Toyota,Rush,2018,55.000-60.000
+193500000,Pasar Minggu,Toyota,Rush,2018,55.000-60.000
+193500000,Kemayoran,Toyota,Rush,2018,55.000-60.000
+193500000,Grogol Petamburan,Toyota,Rush,2018,55.000-60.000
+193500000,Cengkareng,Toyota,Rush,2018,55.000-60.000
+157500000,Pekayon,Toyota,Sienta,2016,80.000-85.000
+157500000,Kramat Jati,Toyota,Sienta,2016,80.000-85.000
+157500000,Duren Sawit,Toyota,Sienta,2016,80.000-85.000
+157500000,Ciracas,Toyota,Sienta,2016,80.000-85.000
+211000000,Pademangan,Mitsubishi,Xpander,2019,95.000-100.000
+126000000,Duren Sawit,Honda,Brio Satya,2017,50.000-55.000
+180000000,Kelapa Gading,Toyota,Avanza,2019,100.000-105.000
+189000000,Cengkareng,Mitsubishi,Xpander,2018,85.000-90.000
+166000000,Cilandak,Suzuki,Ertiga,2018,95.000-100.000
+142000000,Cilandak,Daihatsu,Xenia,2017,35.000-40.000
+194000000,Tanjung Barat,Honda,Jazz,2017,130.000-135.000
+555000000,Pademangan,Mercedes-Benz,CLA200,2018,20.000-25.000
+157500000,Cakung,Toyota,Sienta,2016,80.000-85.000
+157500000,Pesanggrahan,Toyota,Sienta,2016,80.000-85.000
+157500000,Pancoran,Toyota,Sienta,2016,80.000-85.000
+157500000,Kebayoran Lama,Toyota,Sienta,2016,80.000-85.000
+157500000,Palmerah,Toyota,Sienta,2016,80.000-85.000
+157500000,Grogol Petamburan,Toyota,Sienta,2016,80.000-85.000
+157500000,Cengkareng,Toyota,Sienta,2016,80.000-85.000
+163500000,Cilangkap,Honda,Mobilio,2018,95.000-100.000
+163500000,Pekayon,Honda,Mobilio,2018,95.000-100.000
+163500000,Jatinegara,Honda,Mobilio,2018,95.000-100.000
+163500000,Duren Sawit,Honda,Mobilio,2018,95.000-100.000
+163500000,Ciracas,Honda,Mobilio,2018,95.000-100.000
+146500000,Pekayon,Toyota,Yaris,2017,75.000-80.000
+108000000,Duren Sawit,Daihatsu,Sigra,2017,20.000-25.000
+130000000,Johar Baru,Daihatsu,Xenia,2016,60.000-65.000
+107500000,Kebon Jeruk,Toyota,Calya,2017,85.000-90.000
+350000000,Cilandak,Mazda,CX-5,2018,65.000-70.000
+389000000,Kebayoran Baru,Toyota,Alphard,2012,75.000-80.000
+123000000,Pancoran,Toyota,Avanza,2018,110.000-115.000
+170000000,Kemayoran,Mitsubishi,Xpander,2018,45.000-50.000
+163500000,Pasar Minggu,Honda,Mobilio,2018,95.000-100.000
+163500000,Kebayoran Lama,Honda,Mobilio,2018,95.000-100.000
+163500000,Jagakarsa,Honda,Mobilio,2018,95.000-100.000
+163500000,Taman Sari,Honda,Mobilio,2018,95.000-100.000
+163500000,Grogol Petamburan,Honda,Mobilio,2018,95.000-100.000
+163500000,Cengkareng,Honda,Mobilio,2018,95.000-100.000
+135500000,Pekayon,Honda,Brio,2017,45.000-50.000
+135500000,Pasar Baru,Honda,Brio,2017,45.000-50.000
+135500000,Kelapa Gading,Honda,Brio,2017,45.000-50.000
+135500000,Kramat Jati,Honda,Brio,2017,45.000-50.000
+135500000,Duren Sawit,Honda,Brio,2017,45.000-50.000
+135500000,Tebet,Honda,Brio,2017,45.000-50.000
+195000000,Kemayoran,Toyota,Rush,2018,65.000-70.000
+92000000,Kelapa Gading,Daihatsu,Ayla,2015,100.000-105.000
+169000000,Cakung,Toyota,Kijang Innova,2014,100.000-105.000
+131000000,Kelapa Gading,Toyota,Avanza,2018,55.000-60.000
+100000000,Cengkareng,Honda,Brio,2015,35.000-40.000
+88000000,Pesanggrahan,Datsun,Go Panca,2018,20.000-25.000
+130000000,Pademangan,Toyota,Calya,2022,40.000-45.000
+88000000,Tanjung Priok,Daihatsu,Sirion,2014,120.000-125.000
+135500000,Pasar Minggu,Honda,Brio,2017,45.000-50.000
+135500000,Cilandak,Honda,Brio,2017,45.000-50.000
+135500000,Kembangan,Honda,Brio,2017,45.000-50.000
+135500000,Grogol Petamburan,Honda,Brio,2017,45.000-50.000
+135500000,Cengkareng,Honda,Brio,2017,45.000-50.000
+195000000,Kebon Jeruk,Honda,Jazz,2020,45.000-50.000
+230000000,Cilandak,Toyota,Altis,2018,85.000-90.000
+142000000,Pekayon,Toyota,Sienta,2017,115.000-120.000
+142000000,Kramat Jati,Toyota,Sienta,2017,115.000-120.000
+142000000,Duren Sawit,Toyota,Sienta,2017,115.000-120.000
+142000000,Ciracas,Toyota,Sienta,2017,115.000-120.000
+142000000,Cakung,Toyota,Sienta,2017,115.000-120.000
+96000000,Kebayoran Baru,Daihatsu,Sigra,2021,50.000-55.000
+364000000,Pesanggrahan,Toyota,Fortuner,2018,75.000-80.000
+454000000,Pancoran,Toyota,Fortuner,2020,40.000-45.000
+124000000,Jagakarsa,Daihatsu,Ayla,2022,20.000-25.000
+208500000,Kemang,Toyota,Yaris,2020,50.000-55.000
+317500000,Jagakarsa,Nissan,Serena,2019,65.000-70.000
+179100000,Jatinegara,Honda,Brio,2023,5.000
+325000000,Cengkareng,Toyota,Kijang Innova,2019,55.000-60.000
+142000000,Pesanggrahan,Toyota,Sienta,2017,115.000-120.000
+142000000,Pancoran,Toyota,Sienta,2017,115.000-120.000
+142000000,Kebayoran Lama,Toyota,Sienta,2017,115.000-120.000
+142000000,Palmerah,Toyota,Sienta,2017,115.000-120.000
+142000000,Grogol Petamburan,Toyota,Sienta,2017,115.000-120.000
+142000000,Cengkareng,Toyota,Sienta,2017,115.000-120.000
+285000000,Kramat Jati,Mercedes-Benz,C250,2012,40.000-45.000
+75000000,Kebayoran Baru,Honda,Odyssey,2001,85.000-90.000
+395000000,Kebayoran Lama,Toyota,Fortuner,2019,65.000-70.000
+210000000,Duren Sawit,Toyota,Raize,2021,40.000-45.000
+150000000,Kemayoran,Daihatsu,Xenia,2019,50.000-55.000
+140000000,Cibubur,Daihatsu,Xenia,2018,100.000-105.000
+90000000,Kebon Jeruk,Toyota,Calya,2018,30.000-35.000
+223000000,Makasar,Honda,Jazz,2017,75.000-80.000
+108000000,Palmerah,Daihatsu,Xenia,2014,40.000-45.000
+130000000,Kelapa Gading,Daihatsu,Xenia,2016,25.000-30.000
+167500000,Duren Sawit,Suzuki,Ertiga,2021,30.000-35.000
+170000000,Kebon Jeruk,Toyota,Yaris,2018,40.000-45.000
+158200000,Kebayoran Lama,Honda,Brio,2023,5.000
+235000000,Pulo Gadung,Kia,Sonet,2021,35.000-40.000
+188000000,Cibubur,Nissan,X-Trail,2014,105.000-110.000
+264000000,Cibubur,Honda,City,2021,55.000-60.000
+170000000,Grogol Petamburan,Mitsubishi,Outlander Sport,2015,120.000-125.000
+285000000,Duren Sawit,Toyota,Camry,2018,75.000-80.000
+157000000,Pasar Minggu,Toyota,Yaris,2016,85.000-90.000
+129000000,Cempaka Putih,Toyota,Avanza,2014,95.000-100.000
+317500000,Jatinegara,Nissan,Serena,2019,65.000-70.000
+142000000,Pantai Indah Kapuk,Toyota,Yaris,2015,65.000-70.000
+200000000,Pekayon,Toyota,Corolla Altis,2018,80.000-85.000
+119000000,Pasar Rebo,Toyota,Calya,2019,75.000-80.000
+105000000,Duren Sawit,Nissan,Grand livina,2014,95.000-100.000
+368000000,Jatinegara,Toyota,Fortuner,2016,20.000-25.000
+215000000,Jagakarsa,Honda,HR-V,2018,55.000-60.000
+110000000,Pesanggrahan,Daihatsu,Ayla,2018,15.000-20.000
+236000000,Pulo Gadung,Mazda,CX-5,2016,145.000-150.000
+399000000,Setia Budi,Toyota,Fortuner,2019,75.000-80.000
+162000000,Mampang Prapatan,Suzuki,Ertiga,2018,90.000-95.000
+454000000,Kramat Jati,Toyota,Fortuner,2020,55.000-60.000
+143000000,Kelapa Gading,Nissan,Serena,2013,145.000-150.000
+212500000,Grogol Petamburan,Toyota,Raize,2021,35.000-40.000
+117000000,Kemang,Daihatsu,Terios,2014,25.000-30.000
+204000000,Tanjung Duren,Toyota,Yaris,2018,75.000-80.000
+140000000,Kramat Jati,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Duren Sawit,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Cakung,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Tebet,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Pancoran,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Jagakarsa,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Palmerah,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Grogol Petamburan,Daihatsu,Xenia,2018,100.000-105.000
+140000000,Cengkareng,Daihatsu,Xenia,2018,100.000-105.000
+195000000,Kebayoran Lama,Toyota,Camry,2013,70.000-75.000
+124000000,Duren Sawit,Volkswagen,Polo,2017,115.000-120.000
+118000000,Cempaka Putih,Honda,Brio Satya,2016,100.000-105.000
+166000000,Duren Sawit,Toyota,Kijang Innova,2014,85.000-90.000
+251000000,Jatinegara,Toyota,Avanza,2022,15.000-20.000
+116000000,Cilangkap,Nissan,Livina,2013,35.000-40.000
+114000000,Cilangkap,Toyota,Calya,2016,45.000-50.000
+685000000,Kemang,Hyundai,Ioniq 5,2023,5.000-10.000
+530000000,Kelapa Gading,Mercedes-Benz,C250,2016,15.000-20.000
+103000000,Kemayoran,Ford,Ecosport,2014,90.000-95.000
+250000000,Grogol Petamburan,Hyundai,Creta,2022,5.000-10.000
+97000000,Cilangkap,Toyota,Calya,2016,90.000-95.000
+97000000,Tanjung Barat,Toyota,Calya,2016,90.000-95.000
+97000000,Kelapa Gading,Toyota,Calya,2016,90.000-95.000
+97000000,Pasar Minggu,Toyota,Calya,2016,90.000-95.000
+97000000,Kebayoran Lama,Toyota,Calya,2016,90.000-95.000
+97000000,Jagakarsa,Toyota,Calya,2016,90.000-95.000
+93000000,Pancoran,Toyota,Avanza,2011,95.000-100.000
+206000000,Grogol Petamburan,Mitsubishi,Xpander,2019,60.000-65.000
+420000000,Kemayoran,Mini,Cooper Mini Cooper,2015,30.000-35.000
+888000000,Kemayoran,Mercedes-Benz,GLC-Class,2021,10.000-15.000
+97000000,Sawah Besar,Toyota,Calya,2016,90.000-95.000
+97000000,Grogol Petamburan,Toyota,Calya,2016,90.000-95.000
+97000000,Cengkareng,Toyota,Calya,2016,90.000-95.000
+7200000000,Cilandak,Mercedes-Benz,G63,2023,5.000
+118000000,Jakarta Selatan,Mazda,2,2013,60.000-65.000
+270000000,Jakarta Selatan,Nissan,Elgrand,2013,70.000-75.000
+180000000,Tanjung Barat,Honda,Brio,2021,20.000-25.000
+180000000,Pekayon,Honda,Brio,2021,20.000-25.000
+180000000,Pantai Indah Kapuk,Honda,Brio,2021,20.000-25.000
+180000000,Kemang,Honda,Brio,2021,20.000-25.000
+180000000,Duren Sawit,Honda,Brio,2021,20.000-25.000
+180000000,Pesanggrahan,Honda,Brio,2021,20.000-25.000
+412500000,Tanjung Duren,Mitsubishi,Pajero Sport,2018,140.000-145.000
+115000000,Kebon Jeruk,Toyota,Calya,2018,30.000-35.000
+199500000,Pantai Indah Kapuk,Toyota,Raize,2021,35.000-40.000
+223000000,Pasar Minggu,Mitsubishi,Xpander,2019,80.000-85.000
+105000000,Jagakarsa,Toyota,Agya,2016,15.000-20.000
+219000000,Kebon Jeruk,Honda,CR-V,2015,55.000-60.000
+210000000,Cipayung,Honda,HR-V,2017,115.000-120.000
+218000000,Cakung,Honda,HR-V,2018,80.000-85.000
+250000000,Grogol Petamburan,Hyundai,Creta,2022,5.000-10.000
+97000000,Pasar Minggu,Toyota,Calya,2016,90.000-95.000
+97000000,Kebayoran Lama,Toyota,Calya,2016,90.000-95.000
+97000000,Grogol Petamburan,Toyota,Calya,2016,90.000-95.000
+97000000,Cengkareng,Toyota,Calya,2016,90.000-95.000
+118000000,Jakarta Selatan,Mazda,2,2013,60.000-65.000
+270000000,Jakarta Selatan,Nissan,Elgrand,2013,70.000-75.000
+180000000,Tanjung Barat,Honda,Brio,2021,20.000-25.000
+180000000,Pekayon,Honda,Brio,2021,20.000-25.000
+180000000,Pantai Indah Kapuk,Honda,Brio,2021,20.000-25.000
+180000000,Kemang,Honda,Brio,2021,20.000-25.000
+110000000,Ciracas,Honda,Brio,2018,60.000-65.000
+208000000,Kemang,Nissan,Serena,2017,85.000-90.000
+115000000,Tebet,Toyota,Yaris,2012,130.000-135.000
+191000000,Cibubur,Nissan,Livina,2019,35.000-40.000
+153000000,Pademangan,Suzuki,Baleno,2019,35.000-40.000
+220000000,Cempaka Putih,Mitsubishi,Xpander,2019,65.000-70.000
+200000000,Kebayoran Lama,Honda,HR-V,2016,65.000-70.000
+160000000,Pasar Minggu,Honda,HR-V,2017,85.000-90.000
+180000000,Duren Sawit,Honda,Brio,2021,20.000-25.000
+180000000,Pesanggrahan,Honda,Brio,2021,20.000-25.000
+180000000,Pancoran,Honda,Brio,2021,20.000-25.000
+180000000,Kebayoran Lama,Honda,Brio,2021,20.000-25.000
+180000000,Tanah Abang,Honda,Brio,2021,20.000-25.000
+180000000,Grogol Petamburan,Honda,Brio,2021,20.000-25.000
+180000000,Cengkareng,Honda,Brio,2021,20.000-25.000
+138000000,Grogol Petamburan,Suzuki,Ignis,2018,35.000-40.000
+139000000,Kemayoran,Daihatsu,Ayla,2022,5.000-10.000
+1999000000,Cilandak,Land,Rover Defender,2020,40.000-45.000
+199000000,Kemayoran,Smart,Fortwo,2013,15.000-20.000
+450000000,Kemayoran,Toyota,Fortuner,2021,30.000-35.000
+133000000,Kemayoran,Toyota,Sienta,2017,45.000-50.000
+210000000,Kebon Jeruk,Nissan,X-Trail,2017,105.000-110.000
+157000000,Kelapa Gading,Toyota,Yaris,2017,65.000-70.000
+111000000,Tambora,Honda,Brio Satya,2018,45.000-50.000
+209000000,Pademangan,Honda,CR-V,2015,100.000-105.000
+170000000,Pekayon,Suzuki,SX4,2018,145.000-150.000
+154000000,Tebet,Toyota,Sienta,2016,90.000-95.000
+112000000,Senen,Daihatsu,Gran max Pick-up,2018,50.000-55.000
+110000000,Cengkareng,Nissan,Grand livina,2015,70.000-75.000
+375000000,Cakung,Mitsubishi,Pajero Sport,2016,120.000-125.000
+650000000,Pademangan,Toyota,Vellfire,2017,30.000-35.000
+685000000,Kelapa Gading,Hyundai,Ioniq 5,2023,5.000-10.000
+108000000,Pekayon,Daihatsu,Sigra,2023,15.000-20.000
+108000000,Kelapa Gading,Daihatsu,Sigra,2023,15.000-20.000
+108000000,Kramat Jati,Daihatsu,Sigra,2023,15.000-20.000
+108000000,Cakung,Daihatsu,Sigra,2023,15.000-20.000
+108000000,Pesanggrahan,Daihatsu,Sigra,2023,15.000-20.000
+108000000,Pancoran,Daihatsu,Sigra,2023,15.000-20.000
+108000000,Jagakarsa,Daihatsu,Sigra,2023,15.000-20.000
+108000000,Cempaka Putih,Daihatsu,Sigra,2023,15.000-20.000
+154000000,Jagakarsa,Toyota,Yaris,2015,100.000-105.000
+153000000,Penjaringan,Toyota,Avanza,2019,75.000-80.000
+162000000,Kramat Jati,Suzuki,Ertiga,2018,90.000-95.000
+192000000,Kembangan,Toyota,Raize,2022,25.000-30.000
+161500000,Tanjung Duren,Daihatsu,Xenia,2019,35.000-40.000
+137000000,Jagakarsa,Nissan,Grand livina,2018,115.000-120.000
+950000000,Menteng,Toyota,Alphard,2020,20.000-25.000
+125000000,Jagakarsa,Ford,Eco Sport,2014,90.000-95.000
+108000000,Kembangan,Daihatsu,Sigra,2023,15.000-20.000
+108000000,Grogol Petamburan,Daihatsu,Sigra,2023,15.000-20.000
+108000000,Cengkareng,Daihatsu,Sigra,2023,15.000-20.000
+342000000,Duren Sawit,Toyota,Kijang Innova,2021,40.000-45.000
+115000000,Pancoran,Honda,Mobilio,2014,100.000-105.000
+335000000,Kembangan,Honda,CR-V,2019,185.000-190.000
+335000000,Cilandak,Honda,HR-V,2021,15.000-20.000
+375000000,Cilandak,BMW,320i,2016,45.000-50.000
+375000000,Cakung,Toyota,Camry,2019,115.000-120.000
+86500000,Kalideres,Daihatsu,Xenia,2012,115.000-120.000
+152000000,Cibubur,Honda,Mobilio,2017,20.000-25.000
+152000000,Pademangan,Honda,Mobilio,2017,20.000-25.000
+105000000,Pademangan,Toyota,Avanza,2013,195.000-200.000
+119000000,Kalideres,Nissan,Grand livina,2017,90.000-95.000
+239000000,Cakung,Toyota,Kijang Innova,2017,30.000-35.000
+139000000,Pasar Minggu,Daihatsu,Luxio,2017,95.000-100.000
+880000000,Kebayoran Baru,Toyota,Alphard,2019,35.000-40.000
+700000000,Kebon Jeruk,Jeep,Sahara,2012,50.000-55.000
+193000000,Pasar Minggu,Honda,City,2017,15.000-20.000
+196000000,Cilandak,Mitsubishi,Xpander,2019,75.000-80.000
+152000000,Cipayung,Honda,Mobilio,2017,20.000-25.000
+152000000,Cakung,Honda,Mobilio,2017,20.000-25.000
+152000000,Tebet,Honda,Mobilio,2017,20.000-25.000
+152000000,Pasar Minggu,Honda,Mobilio,2017,20.000-25.000
+152000000,Cilandak,Honda,Mobilio,2017,20.000-25.000
+152000000,Kemayoran,Honda,Mobilio,2017,20.000-25.000
+152000000,Kebon Jeruk,Honda,Mobilio,2017,20.000-25.000
+152000000,Grogol Petamburan,Honda,Mobilio,2017,20.000-25.000
+152000000,Cengkareng,Honda,Mobilio,2017,20.000-25.000
+450000000,Kemang,Mini,Cooper Mini Cooper,2013,50.000-55.000
+75000000,Cibubur,Suzuki,Karimun,2006,135.000-140.000
+719500000,Cilandak,Hyundai,Palisade,2021,15.000-20.000
+208000000,Setia Budi,Toyota,Rush,2019,40.000-45.000
+179000000,Kelapa Gading,Honda,Brio,2021,40.000-45.000
+104500000,Grogol Petamburan,Daihatsu,Sigra,2018,95.000-100.000
+126500000,Tanjung Duren,Toyota,Avanza,2015,125.000-130.000
+204000000,Duren Sawit,Wuling,Almaz,2019,25.000-30.000
+346500000,Gambir,Toyota,Fortuner,2016,90.000-95.000
+199500000,Kebon Jeruk,Toyota,Yaris,2018,40.000-45.000
+125000000,Cibubur,Daihatsu,Sigra,2019,85.000-90.000
+250000000,Cilandak,Smart,Fortwo,2013,15.000-20.000
+445000000,Tanah Abang,Toyota,Fortuner,2020,65.000-70.000
+348000000,Senen,Toyota,Voxy,2018,15.000-20.000
+128000000,Kembangan,Toyota,Rush,2013,100.000-105.000
+138000000,Cilandak,Honda,CR-V,2010,100.000-105.000
+96000000,Kembangan,Honda,Brio,2014,35.000-40.000
+96000000,Kembangan,Honda,Brio,2014,35.000-40.000
+265000000,Matraman,Honda,CR-V,2016,50.000-55.000
+435000000,Kelapa Gading,Mitsubishi,Pajero Sport,2019,45.000-50.000
+825000000,Duren Sawit,Toyota,Land Cruiser,2008,135.000-140.000
+265000000,Cakung,Toyota,Altis,2019,60.000-65.000
+235000000,Kebayoran Lama,Toyota,Kijang Innova,2017,90.000-95.000
+400000000,Pancoran,Toyota,Fortuner,2019,90.000-95.000
+197000000,Kelapa Gading,Wuling,Almaz,2019,80.000-85.000
+188000000,Ciracas,Honda,HR-V,2016,90.000-95.000
+148500000,Grogol Petamburan,Toyota,Yaris,2017,75.000-80.000
+178000000,Tambora,Honda,HR-V,2015,55.000-60.000
+169000000,Kramat Jati,Honda,Freed,2015,80.000-85.000
+126000000,Cibubur,Suzuki,Ignis,2018,20.000-25.000
+138000000,Kebayoran Lama,Honda,Freed,2014,105.000-110.000
+188000000,Kramat Jati,Suzuki,XL7,2020,75.000-80.000
+188000000,Duren Sawit,Suzuki,XL7,2020,75.000-80.000
+188000000,Cakung,Suzuki,XL7,2020,75.000-80.000
+188000000,Pesanggrahan,Suzuki,XL7,2020,75.000-80.000
+188000000,Kebayoran Lama,Suzuki,XL7,2020,75.000-80.000
+188000000,Grogol Petamburan,Suzuki,XL7,2020,75.000-80.000
+188000000,Cengkareng,Suzuki,XL7,2020,75.000-80.000
+137500000,Duren Sawit,Nissan,Serena,2013,160.000-165.000
+288000000,Duren Sawit,Toyota,Kijang Innova,2018,40.000-45.000
+128999999,Cakung,Toyota,Vios,2015,130.000-135.000
+525000000,Kebayoran Lama,Mazda,CX-9,2019,30.000-35.000
+435000000,Pademangan,Honda,HR-V,2022,10.000-15.000
+207000000,Kalideres,Honda,HR-V,2017,40.000-45.000
+138000000,Pademangan,Honda,Brio Satya,2018,60.000-65.000
+115000000,Penjaringan,Honda,Brio,2017,50.000-55.000
+146500000,Kramat Jati,Toyota,Yaris,2016,60.000-65.000
+85000000,Kramat Jati,Toyota,Agya,2017,70.000-75.000
+57000000,Cakung,Nissan,X-Trail,2005,300.000
+190000000,Pasar Baru,Suzuki,XL7,2022,25.000-30.000
+143000000,Duren Sawit,Daihatsu,Xenia,2017,35.000-40.000
+116000000,Kembangan,BMW,520i,2004,160.000-165.000
+122000000,Jatinegara,Suzuki,Ertiga,2015,80.000-85.000
+410000000,Kelapa Gading,Toyota,Alphard,2014,50.000-55.000
+650000000,Sawah Besar,Porsche,Cayenne,2013,20.000-25.000
+97000000,Jakarta Barat,Nissan,Grand livina,2013,130.000-135.000
+370000000,Cilandak,Honda,CR-V,2018,75.000-80.000
+218000000,Kebayoran Lama,Toyota,Camry,2015,110.000-115.000
+240000000,Pasar Minggu,Volkswagen,Golf,2014,85.000-90.000
+72000000,Cakung,Daihatsu,Gran max Pick-up,2018,105.000-110.000
+550000000,Cilandak,Mercedes-Benz,A200,2019,30.000-35.000
+205000000,Kemayoran,Mitsubishi,Xpander,2019,75.000-80.000
+305000000,Jakarta Selatan,Toyota,Kijang Innova,2016,140.000-145.000
+78000000,Pasar Baru,Datsun,Go+ Panca,2017,50.000-55.000
+113000000,Pasar Minggu,Toyota,Avanza,2013,75.000-80.000
+199000000,Cilandak,Wuling,Almaz,2019,50.000-55.000
+261000000,Palmerah,Toyota,Kijang Innova,2016,25.000-30.000
+67000000,Pantai Indah Kapuk,Nissan,Grand livina,2011,120.000-125.000
+308320000,Setia Budi,Toyota,Kijang Innova,2017,95.000-100.000
+108000000,Tebet,Kia,Rio,2012,95.000-100.000
+150500000,Cakung,Honda,Mobilio,2017,30.000-35.000
+95000000,Kelapa Gading,Daihatsu,Ayla,2014,60.000-65.000
+153000000,Kebon Jeruk,Honda,Mobilio,2017,45.000-50.000
+525000000,Pademangan,BMW,X5,2015,50.000-55.000
+147000000,Pasar Minggu,Mercedes-Benz,C-Class,2008,65.000-70.000
+150000000,Kelapa Gading,Nissan,Serena,2014,125.000-130.000
+131000000,Tanjung Barat,Nissan,Grand livina,2017,105.000-110.000
+131000000,Cilincing,Nissan,Grand livina,2017,105.000-110.000
+131000000,Jatinegara,Nissan,Grand livina,2017,105.000-110.000
+131000000,Duren Sawit,Nissan,Grand livina,2017,105.000-110.000
+131000000,Ciracas,Nissan,Grand livina,2017,105.000-110.000
+131000000,Pasar Minggu,Nissan,Grand livina,2017,105.000-110.000
+131000000,Kebayoran Lama,Nissan,Grand livina,2017,105.000-110.000
+197000000,Penjaringan,Honda,Jazz,2017,50.000-55.000
+320000000,Grogol Petamburan,Toyota,Fortuner,2017,65.000-70.000
+182500000,Kebayoran Lama,Honda,Jazz,2018,65.000-70.000
+131000000,Kebayoran Lama,Suzuki,Ignis,2019,50.000-55.000
+212999000,Cempaka Putih,Mitsubishi,Xpander,2019,25.000-30.000
+577900000,Jagakarsa,Mitsubishi,Pajero,2023,5.000
+94000000,Pademangan,Daihatsu,Ayla,2020,45.000-50.000
+300000000,Jakarta Selatan,BMW,320i,2015,50.000-55.000
+131000000,Cempaka Putih,Nissan,Grand livina,2017,105.000-110.000
+131000000,Kalideres,Nissan,Grand livina,2017,105.000-110.000
+131000000,Grogol Petamburan,Nissan,Grand livina,2017,105.000-110.000
+131000000,Cengkareng,Nissan,Grand livina,2017,105.000-110.000
+226000000,Tanjung Barat,Toyota,Raize,2021,15.000-20.000
+226000000,Pekayon,Toyota,Raize,2021,15.000-20.000
+226000000,Pasar Baru,Toyota,Raize,2021,15.000-20.000
+226000000,Pantai Indah Kapuk,Toyota,Raize,2021,15.000-20.000
+226000000,Kemang,Toyota,Raize,2021,15.000-20.000
+226000000,Cakung,Toyota,Raize,2021,15.000-20.000
+226000000,Pesanggrahan,Toyota,Raize,2021,15.000-20.000
+226000000,Pancoran,Toyota,Raize,2021,15.000-20.000
+133000000,Cakung,Daihatsu,Xenia,2017,35.000-40.000
+365000000,Makasar,Honda,CR-V,2018,75.000-80.000
+129000000,Cempaka Putih,Suzuki,Ertiga,2016,25.000-30.000
+128000000,Pademangan,Honda,Brio,2016,35.000-40.000
+112000000,Kebayoran Baru,Nissan,Grand livina,2018,120.000-125.000
+190000000,Jatinegara,Toyota,Rush,2018,60.000-65.000
+158000000,Pesanggrahan,Honda,BR-V,2017,50.000-55.000
+95000000,Cibubur,Daihatsu,Sigra,2018,30.000-35.000
+226000000,Kebayoran Lama,Toyota,Raize,2021,15.000-20.000
+226000000,Grogol Petamburan,Toyota,Raize,2021,15.000-20.000
+226000000,Cengkareng,Toyota,Raize,2021,15.000-20.000
+145000000,Duren Sawit,Nissan,Juke,2013,30.000-35.000
+480000000,Kebayoran Lama,Audi,A8 L,2011,80.000-85.000
+525000000,Jakarta Selatan,Toyota,Fortuner,2021,10.000-15.000
+79000000,Ciracas,Daihatsu,Ayla,2013,65.000-70.000
+95000000,Grogol Petamburan,Suzuki,SX4,2010,125.000-130.000
+650000000,Pademangan,Toyota,Alphard,2017,40.000-45.000
+295000000,Jakarta Barat,Honda,CR-V,2018,70.000-75.000
+102000000,Kembangan,Mazda,2,2012,120.000-125.000
+233000000,Kemayoran,Honda,BR-V,2022,5.000
+197000000,Kemayoran,Honda,HR-V,2018,100.000-105.000
+192000000,Jagakarsa,Toyota,Raize,2022,25.000-30.000
+141000000,Kembangan,Wuling,Cortez,2019,30.000-35.000
+115000000,Cilandak,Daihatsu,Sigra,2019,30.000-35.000
+153000000,Pasar Minggu,Toyota,Avanza,2019,60.000-65.000
+125500000,Kembangan,Toyota,Avanza,2017,115.000-120.000
+717000000,Cilandak,Toyota,Vellfire,2016,65.000-70.000
+196000000,Duren Sawit,Mitsubishi,Xpander,2019,75.000-80.000
+388000000,Cakung,Honda,CR-V,2017,70.000-75.000
+259000000,Cengkareng,Toyota,Kijang Innova,2020,50.000-55.000
+339000000,Tebet,Nissan,Terra,2018,50.000-55.000
+115000000,Kebon Jeruk,Toyota,Kijang Innova,2008,115.000-120.000
+235000000,Cilandak,Toyota,Vellfire,2009,75.000-80.000
+129500000,Jatinegara,Suzuki,Ignis,2020,10.000-15.000
+165000000,Sawah Besar,Honda,Freed,2013,135.000-140.000
+190000000,Cakung,Toyota,Kijang Innova,2018,75.000-80.000
+369000000,Jakarta Barat,Toyota,Fortuner,2018,135.000-140.000
+395000000,Kemayoran,Jeep,Cherokee,2015,45.000-50.000
+179000000,Cilandak,Toyota,Sienta,2017,75.000-80.000
+264000000,Penjaringan,Toyota,Fortuner,2014,90.000-95.000
+102000000,Kalideres,Daihatsu,Sigra,2017,60.000-65.000
+158000000,Makasar,Suzuki,Ertiga,2019,55.000-60.000
+179000000,Cibubur,Wuling,Almaz,2019,50.000-55.000
+169000000,Pasar Minggu,Toyota,Avanza,2020,60.000-65.000
+128000000,Pesanggrahan,Suzuki,Ignis,2018,90.000-95.000
+125500000,Kemayoran,Toyota,Vios,2014,125.000-130.000
+725000000,Pademangan,Toyota,Alphard,2017,30.000-35.000
+199000000,Cipayung,Mitsubishi,Xpander,2018,45.000-50.000
+719000000,Cibubur,Toyota,Alphard,2017,55.000-60.000
+585000000,Cibubur,Mercedes-Benz,CLA200,2018,5.000-10.000
+700000000,Cilandak,BMW,730Li,2018,55.000-60.000
+277000000,Cibubur,Toyota,Kijang Innova,2018,75.000-80.000
+277000000,Tanjung Duren,Toyota,Kijang Innova,2018,75.000-80.000
+277000000,Kelapa Gading,Toyota,Kijang Innova,2018,75.000-80.000
+277000000,Cakung,Toyota,Kijang Innova,2018,75.000-80.000
+277000000,Pasar Minggu,Toyota,Kijang Innova,2018,75.000-80.000
+277000000,Kebayoran Lama,Toyota,Kijang Innova,2018,75.000-80.000
+277000000,Jagakarsa,Toyota,Kijang Innova,2018,75.000-80.000
+277000000,Kemayoran,Toyota,Kijang Innova,2018,75.000-80.000
+277000000,Grogol Petamburan,Toyota,Kijang Innova,2018,75.000-80.000
+178000000,Pulo Gadung,Suzuki,SX4,2018,60.000-65.000
+107000000,Kemayoran,Nissan,March,2015,110.000-115.000
+184000000,Cakung,Suzuki,Ertiga,2019,50.000-55.000
+128000000,Pulo Gadung,Suzuki,Ignis,2018,50.000-55.000
+136000000,Jagakarsa,Toyota,Calya,2020,30.000-35.000
+615000000,Kemayoran,Toyota,Alphard,2017,35.000-40.000
+359000000,Jakarta Selatan,Toyota,Alphard,2013,25.000-30.000
+215000000,Pademangan,Wuling,Air EV,2023,5.000
+277000000,Cengkareng,Toyota,Kijang Innova,2018,75.000-80.000
+143000000,Cilangkap,Suzuki,Ignis,2021,20.000-25.000
+143000000,Pekayon,Suzuki,Ignis,2021,20.000-25.000
+143000000,Jatinegara,Suzuki,Ignis,2021,20.000-25.000
+143000000,Duren Sawit,Suzuki,Ignis,2021,20.000-25.000
+143000000,Ciracas,Suzuki,Ignis,2021,20.000-25.000
+143000000,Pasar Minggu,Suzuki,Ignis,2021,20.000-25.000
+143000000,Kebayoran Lama,Suzuki,Ignis,2021,20.000-25.000
+143000000,Jagakarsa,Suzuki,Ignis,2021,20.000-25.000
+143000000,Palmerah,Suzuki,Ignis,2021,20.000-25.000
+143000000,Grogol Petamburan,Suzuki,Ignis,2021,20.000-25.000
+143000000,Cengkareng,Suzuki,Ignis,2021,20.000-25.000
+188000000,Kebon Jeruk,Toyota,Rush,2018,70.000-75.000
+93000000,Kemayoran,Toyota,Calya,2016,95.000-100.000
+119000000,Kelapa Gading,Suzuki,Ertiga,2013,80.000-85.000
+236000000,Jagakarsa,Mitsubishi,Xpander,2022,50.000-55.000
+104000000,Duren Sawit,Daihatsu,Sigra,2018,20.000-25.000
+850000000,Cipayung,Toyota,Land Cruiser,2004,130.000-135.000
+123000000,Ciracas,Honda,Brio Satya,2018,50.000-55.000
+243000000,Pademangan,Honda,Jazz,2019,100.000-105.000
+136000000,Cibubur,Daihatsu,Xenia,2017,35.000-40.000
+136000000,Kramat Jati,Daihatsu,Xenia,2017,35.000-40.000
+136000000,Duren Sawit,Daihatsu,Xenia,2017,35.000-40.000
+136000000,Cakung,Daihatsu,Xenia,2017,35.000-40.000
+136000000,Tebet,Daihatsu,Xenia,2017,35.000-40.000
+136000000,Pancoran,Daihatsu,Xenia,2017,35.000-40.000
+136000000,Jagakarsa,Daihatsu,Xenia,2017,35.000-40.000
+136000000,Palmerah,Daihatsu,Xenia,2017,35.000-40.000
+136000000,Grogol Petamburan,Daihatsu,Xenia,2017,35.000-40.000
+136000000,Cengkareng,Daihatsu,Xenia,2017,35.000-40.000
+105000000,Kebayoran Baru,Wuling,Confero S,2018,55.000-60.000
+148000000,Pantai Indah Kapuk,Suzuki,SX4,2017,85.000-90.000
+324000000,Kemayoran,Honda,CR-V,2018,60.000-65.000
+248000000,Pasar Minggu,Honda,Jazz,2019,105.000-110.000
+146500000,Pekayon,Honda,Mobilio,2016,80.000-85.000
+156000000,Jatinegara,Toyota,Yaris,2018,60.000-65.000
+318000000,Jatinegara,Mitsubishi,Triton,2016,145.000-150.000
+106000000,Kalideres,Honda,Brio,2014,100.000-105.000
+97000000,Duren Sawit,Toyota,Agya,2017,115.000-120.000
+192000000,Pekayon,Toyota,Rush,2018,45.000-50.000
+295000000,Mampang Prapatan,Honda,CR-V,2018,75.000-80.000
+130000000,Kramat Jati,Suzuki,Ertiga,2016,75.000-80.000
+695000000,Ciracas,BMW,740Li,2016,15.000-20.000
+320000000,Pekayon,Toyota,Fortuner,2017,65.000-70.000
+320000000,Kemang,Toyota,Fortuner,2017,65.000-70.000
+320000000,Kramat Jati,Toyota,Fortuner,2017,65.000-70.000
+320000000,Duren Sawit,Toyota,Fortuner,2017,65.000-70.000
+320000000,Cakung,Toyota,Fortuner,2017,65.000-70.000
+320000000,Pesanggrahan,Toyota,Fortuner,2017,65.000-70.000
+320000000,Kebayoran Lama,Toyota,Fortuner,2017,65.000-70.000
+320000000,Kebon Jeruk,Toyota,Fortuner,2017,65.000-70.000
+320000000,Cengkareng,Toyota,Fortuner,2017,65.000-70.000
+191000000,Duren Sawit,Mitsubishi,Xpander,2018,75.000-80.000
+169000000,Ciracas,Suzuki,SX4,2018,140.000-145.000
+207000000,Tanah Abang,Mitsubishi,Xpander,2019,120.000-125.000
+250000002,Cipayung,Honda,HR-V,2018,60.000-65.000
+590000000,Cilandak,Mercedes-Benz,C300,2018,15.000-20.000
+850000000,Kemang,Mercedes-Benz,E300,2019,30.000-35.000
+153000000,Pademangan,Mitsubishi,Outlander Sport,2012,45.000-50.000
+81000000,Pancoran,Daihatsu,Ayla,2016,60.000-65.000
+178000000,Kembangan,Toyota,Alphard,2008,165.000-170.000
+410000000,Pulo Gadung,Mercedes-Benz,ML250,2014,60.000-65.000
+369000000,Kebayoran Lama,Toyota,Fortuner,2018,140.000-145.000
+799000000,Kemayoran,Mercedes-Benz,C300,2016,15.000-20.000
+157000000,Setia Budi,Toyota,Sienta,2016,60.000-65.000
+325000000,Cilandak,Toyota,Alphard,2012,65.000-70.000
+140000000,Cilandak,Honda,Freed,2013,115.000-120.000
+99000000,Cilandak,Daihatsu,Sigra,2016,65.000-70.000
+173000000,Jagakarsa,Mercedes-Benz,C200,2010,50.000-55.000
+163000000,Kebayoran Baru,Honda,CR-V,2013,145.000-150.000
+173000000,Kebayoran Lama,Mercedes-Benz,C200,2010,50.000-55.000
+260000000,Pasar Baru,Honda,HR-V,2020,40.000-45.000
+122000000,Cibubur,Toyota,Avanza,2016,75.000-80.000
+125000000,Pancoran,Suzuki,Ertiga,2015,10.000-15.000
+202000000,Cakung,Mitsubishi,Xpander,2019,125.000-130.000
+133000000,Penjaringan,Toyota,Rush,2014,95.000-100.000
+158000000,Pasar Minggu,Toyota,Yaris,2016,90.000-95.000
+160000000,Tanjung Priok,Honda,CR-V,2012,70.000-75.000
+900000000,Kebayoran Baru,Hyundai,Palisade,2023,5.000
+229000000,Kebayoran Lama,Nissan,Serena,2017,45.000-50.000
+165000000,Duren Sawit,Mitsubishi,Outlander,2014,100.000-105.000
+147000000,Penjaringan,Toyota,Avanza,2017,50.000-55.000
+147000000,Cipayung,Toyota,Avanza,2017,50.000-55.000
+147000000,Cakung,Toyota,Avanza,2017,50.000-55.000
+147000000,Pasar Minggu,Toyota,Avanza,2017,50.000-55.000
+147000000,Kebayoran Lama,Toyota,Avanza,2017,50.000-55.000
+147000000,Jagakarsa,Toyota,Avanza,2017,50.000-55.000
+147000000,Cilandak,Toyota,Avanza,2017,50.000-55.000
+147000000,Kemayoran,Toyota,Avanza,2017,50.000-55.000
+147000000,Grogol Petamburan,Toyota,Avanza,2017,50.000-55.000
+147000000,Cengkareng,Toyota,Avanza,2017,50.000-55.000
+345000000,Cilandak,Hyundai,Creta,2022,15.000-20.000
+152000000,Tanjung Barat,Honda,BR-V,2016,100.000-105.000
+196000000,Kalideres,Honda,Jazz,2017,70.000-75.000
+145000000,Kramat Jati,Toyota,Yaris,2014,95.000-100.000
+214000000,Jagakarsa,Honda,HR-V,2017,85.000-90.000
+135000000,Kembangan,Toyota,Yaris,2013,40.000-45.000
+143000000,Cengkareng,Toyota,Nav1,2013,70.000-75.000
+146500000,Cilincing,Honda,Brio Satya,2020,50.000-55.000
+188000000,Kembangan,Toyota,Rush,2018,110.000-115.000
+340000000,Pasar Minggu,Toyota,Fortuner,2016,100.000-105.000
+173000000,Cilandak,Mercedes-Benz,C200,2010,50.000-55.000
+170000000,Cakung,Mazda,2,2016,55.000-60.000
+135000000,Koja,Toyota,Corolla Altis,2012,155.000-160.000
+150000000,Tanjung Barat,Honda,Mobilio,2019,65.000-70.000
+150000000,Pantai Indah Kapuk,Honda,Mobilio,2019,65.000-70.000
+150000000,Kemang,Honda,Mobilio,2019,65.000-70.000
+150000000,Kramat Jati,Honda,Mobilio,2019,65.000-70.000
+150000000,Cakung,Honda,Mobilio,2019,65.000-70.000
+336000000,Kelapa Gading,Toyota,Kijang Innova,2019,30.000-35.000
+105500000,Kramat Jati,Daihatsu,Ayla,2020,35.000-40.000
+221000000,Pasar Minggu,Honda,Jazz,2018,60.000-65.000
+78000000,Cilincing,Datsun,Go Panca,2017,90.000-95.000
+186000000,Pasar Minggu,Mitsubishi,Xpander,2018,80.000-85.000
+552100000,Pancoran,Mitsubishi,Pajero Sport,2023,5.000
+435000000,Duren Sawit,BMW,320i,2017,45.000-50.000
+244000000,Kembangan,Toyota,Avanza,2021,20.000-25.000
+150000000,Pesanggrahan,Honda,Mobilio,2019,65.000-70.000
+150000000,Pancoran,Honda,Mobilio,2019,65.000-70.000
+150000000,Kebayoran Lama,Honda,Mobilio,2019,65.000-70.000
+150000000,Sawah Besar,Honda,Mobilio,2019,65.000-70.000
+150000000,Grogol Petamburan,Honda,Mobilio,2019,65.000-70.000
+150000000,Cengkareng,Honda,Mobilio,2019,65.000-70.000
+149000000,Kebon Jeruk,Daihatsu,Ayla,2023,5.000
+169000000,Pantai Indah Kapuk,Toyota,Avanza,2019,10.000-15.000
+169000000,Kemang,Toyota,Avanza,2019,10.000-15.000
+169000000,Jatinegara,Toyota,Avanza,2019,10.000-15.000
+169000000,Duren Sawit,Toyota,Avanza,2019,10.000-15.000
+169000000,Ciracas,Toyota,Avanza,2019,10.000-15.000
+198000000,Palmerah,Daihatsu,Xenia,2021,5.000-10.000
+190000000,Cibubur,Nissan,Livina,2019,75.000-80.000
+117000000,Kemayoran,Daihatsu,Terios,2014,25.000-30.000
+105500000,Cempaka Putih,Nissan,Grand livina,2013,105.000-110.000
+243000000,Kebayoran Lama,Toyota,Avanza,2021,25.000-30.000
+365000000,Ciracas,Honda,HR-V,2022,10.000-15.000
+155000000,Pasar Minggu,Toyota,Sienta,2016,80.000-85.000
+72000000,Cilandak,Kia,Picanto,2012,160.000-165.000
+169000000,Pesanggrahan,Toyota,Avanza,2019,10.000-15.000
+169000000,Kebayoran Lama,Toyota,Avanza,2019,10.000-15.000
+169000000,Cempaka Putih,Toyota,Avanza,2019,10.000-15.000
+169000000,Kembangan,Toyota,Avanza,2019,10.000-15.000
+169000000,Grogol Petamburan,Toyota,Avanza,2019,10.000-15.000
+169000000,Cengkareng,Toyota,Avanza,2019,10.000-15.000
+5000000000,Kelapa Gading,BMW,M4,2023,5.000
+117000000,Pasar Baru,Honda,Brio,2015,95.000-100.000
+123000000,Pantai Indah Kapuk,Daihatsu,Ayla,2020,40.000-45.000
+123000000,Duren Sawit,Daihatsu,Ayla,2020,40.000-45.000
+123000000,Pasar Minggu,Daihatsu,Ayla,2020,40.000-45.000
+123000000,Kemayoran,Daihatsu,Ayla,2020,40.000-45.000
+140000000,Pasar Minggu,Toyota,Yaris,2016,75.000-80.000
+123000000,Pasar Minggu,Suzuki,Ignis,2019,90.000-95.000
+172000000,Kebayoran Lama,Mazda,2,2016,70.000-75.000
+115000000,Pademangan,Daihatsu,Xenia,2014,70.000-75.000
+123000000,Pasar Minggu,Nissan,March,2018,60.000-65.000
+83500000,Tebet,Daihatsu,Ayla,2016,155.000-160.000
+422000000,Cempaka Putih,Toyota,Fortuner,2019,50.000-55.000
+244500000,Pesanggrahan,Toyota,Avanza,2022,25.000-30.000
+123000000,Grogol Petamburan,Daihatsu,Ayla,2020,40.000-45.000
+123000000,Cempaka Putih,Daihatsu,Ayla,2020,40.000-45.000
+87000000,Pantai Indah Kapuk,Honda,Brio Satya,2015,80.000-85.000
+87000000,Pasar Minggu,Honda,Brio Satya,2015,80.000-85.000
+87000000,Kemayoran,Honda,Brio Satya,2015,80.000-85.000
+87000000,Grogol Petamburan,Honda,Brio Satya,2015,80.000-85.000
+87000000,Cempaka Putih,Honda,Brio Satya,2015,80.000-85.000
+38000000,Senen,Volvo,S60,2005,100.000-105.000
+120000000,Pantai Indah Kapuk,Toyota,Calya,2019,20.000-25.000
+120000000,Duren Sawit,Toyota,Calya,2019,20.000-25.000
+120000000,Pasar Minggu,Toyota,Calya,2019,20.000-25.000
+120000000,Kemayoran,Toyota,Calya,2019,20.000-25.000
+168000000,Kebayoran Lama,Suzuki,Baleno,2018,55.000-60.000
+231000000,Cempaka Putih,Hyundai,Stargazer,2022,10.000-15.000
+128000000,Ciracas,Wuling,Cortez,2018,30.000-35.000
+94000000,Pekayon,Toyota,Agya,2016,35.000-40.000
+169500000,Duren Sawit,Suzuki,SX4,2019,65.000-70.000
+214500000,Cibubur,Toyota,Kijang Innova,2014,110.000-115.000
+398000000,Kelapa Gading,Honda,CR-V,2019,35.000-40.000
+88000000,Grogol Petamburan,Daihatsu,Sirion,2014,120.000-125.000
+120000000,Grogol Petamburan,Toyota,Calya,2019,20.000-25.000
+120000000,Cempaka Putih,Toyota,Calya,2019,20.000-25.000
+201000000,Cempaka Putih,Mitsubishi,Pajero Sport,2012,140.000-145.000
+265000000,Tebet,Toyota,Avanza,2022,5.000-10.000
+182000000,Menteng,Toyota,Camry,2014,115.000-120.000
+225000000,Kebayoran Baru,Nissan,Serena,2017,85.000-90.000
+125000000,Duren Sawit,Nissan,Grand livina,2017,115.000-120.000
+1325000000,Cilandak,BMW,M3,2014,10.000-15.000
+173000000,Kebon Jeruk,Mercedes-Benz,C200,2010,50.000-55.000
+55000000,Mampang Prapatan,Mazda,323,1993,65.000-70.000
+180000000,Mampang Prapatan,Honda,HR-V,2017,80.000-85.000
+379000000,Kebayoran Baru,Toyota,Fortuner,2018,65.000-70.000
+101500000,Cibubur,Nissan,Serena,2010,190.000-195.000
+230500000,Grogol Petamburan,Kia,Sonet,2021,35.000-40.000
+355000000,Kemayoran,Toyota,Voxy,2018,105.000-110.000
+495000000,Tanjung Barat,Land,Rover Range Rover Evoque,2012,10.000-15.000
+295000000,Menteng,Honda,CR-V,2018,75.000-80.000
+212000000,Cilangkap,Toyota,Yaris,2020,40.000-45.000
+212000000,Tanjung Barat,Toyota,Yaris,2020,40.000-45.000
+212000000,Jatinegara,Toyota,Yaris,2020,40.000-45.000
+212000000,Ciracas,Toyota,Yaris,2020,40.000-45.000
+212000000,Cakung,Toyota,Yaris,2020,40.000-45.000
+212000000,Pasar Minggu,Toyota,Yaris,2020,40.000-45.000
+212000000,Kebayoran Lama,Toyota,Yaris,2020,40.000-45.000
+212000000,Taman Sari,Toyota,Yaris,2020,40.000-45.000
+212000000,Grogol Petamburan,Toyota,Yaris,2020,40.000-45.000
+212000000,Cengkareng,Toyota,Yaris,2020,40.000-45.000
+775000000,Kebayoran Baru,Mercedes-Benz,E400,2014,5.000-10.000
+208500000,Pesanggrahan,Toyota,Rush,2020,45.000-50.000
+184000000,Pekayon,Mitsubishi,Xpander,2019,55.000-60.000
+165500000,Cakung,Suzuki,Ertiga,2019,70.000-75.000
+133500000,Pantai Indah Kapuk,Suzuki,Ertiga,2017,60.000-65.000
+149000000,Kelapa Gading,Daihatsu,Ayla,2023,5.000
+120000000,Cakung,Honda,Brio,2016,70.000-75.000
+205000000,Pademangan,Daihatsu,Xenia,2022,5.000
+305000000,Pulo Gadung,Honda,CR-V,2017,90.000-95.000
+127999999,Pesanggrahan,Honda,Accord,2011,185.000-190.000
+140000000,Kelapa Gading,Honda,Freed,2013,115.000-120.000
+210000000,Setia Budi,Nissan,X-Trail,2017,120.000-125.000
+147000000,Kebayoran Baru,Toyota,Fortuner,2007,160.000-165.000
+220000000,Cempaka Putih,Toyota,Lain-lain,2021,40.000-45.000
+152000000,Cibubur,Honda,Brio,2018,45.000-50.000
+149000000,Kalideres,Daihatsu,Ayla,2023,5.000
+350000000,Pekayon,Honda,CR-V,2017,95.000-100.000
+172000000,Makasar,Daihatsu,Terios,2019,60.000-65.000
+89000000,Kelapa Gading,Nissan,Teana,2007,135.000-140.000
+117000000,Cilandak,Toyota,Calya,2019,70.000-75.000
+166000000,Tebet,Toyota,Kijang Innova,2014,105.000-110.000
+350000000,Cilincing,Honda,CR-V,2017,95.000-100.000
+350000000,Duren Sawit,Honda,CR-V,2017,95.000-100.000
+350000000,Cakung,Honda,CR-V,2017,95.000-100.000
+350000000,Tebet,Honda,CR-V,2017,95.000-100.000
+350000000,Pancoran,Honda,CR-V,2017,95.000-100.000
+350000000,Jagakarsa,Honda,CR-V,2017,95.000-100.000
+350000000,Cempaka Putih,Honda,CR-V,2017,95.000-100.000
+350000000,Kalideres,Honda,CR-V,2017,95.000-100.000
+350000000,Grogol Petamburan,Honda,CR-V,2017,95.000-100.000
+350000000,Cengkareng,Honda,CR-V,2017,95.000-100.000
+212000000,Tambora,Toyota,Raize,2022,15.000-20.000
+725000000,Pasar Minggu,Toyota,Vellfire,2016,45.000-50.000
