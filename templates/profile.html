@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+    <h2>Profile</h2>
+    <img src="{{ url_for('static', filename=('uploads/' + current_user.profile_image if current_user.profile_image else 'images/default.png')) }}" alt="Profile Image" width="200" class="profile-img">
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="profile_pic">
+        <input type="submit" value="Update Profile Picture">
+        <a href="{{ url_for('remove_profile_image') }}">Remove Profile Image</a>
+    </form>
+{% endblock %}

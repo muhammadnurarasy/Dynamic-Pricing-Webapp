@@ -1,0 +1,74 @@
+{% set year = current_time|date("2023") %}
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.botpress.cloud/webchat/v0/inject.js"></script>
+    <script src="https://mediafiles.botpress.cloud/924c9564-b854-42b4-9c6d-a8acb7b0c622/webchat/config.js" defer></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+    <link rel="icon" href="{{ url_for('static', filename='logo.ico') }}">
+    <title>{% block title %}Arasy Benchmarking Price{% endblock %}</title>
+</head>
+<body>
+
+    <header class="bg-primary text-white p-3">
+        <div class="container d-flex justify-content-between align-items-center">
+            <!-- Logo and Title -->
+            <div class="d-flex align-items-center">
+                <a href="{{ url_for('index') }}" class="d-flex align-items-center text-white text-decoration-none">
+                    <img src="{{ url_for('static', filename='images/logo.png') }}" alt="Logo" class="mr-3" style="height: 70px;"> <!-- Adjusted height -->
+                    <h1 class="d-inline-block mb-0">Arasy Benchmarking Price</h1>
+                </a>
+            </div>
+
+            <!-- Navigation Links -->
+            <nav class="d-flex align-items-center">
+                <a href="{{ url_for('index') }}" class='text-white mr-3'>Home</a>
+                {% if current_user.is_authenticated %}
+                    <div class="dropdown">
+                        <button class="btn btn-primary dropdown-toggle" type="button" id="profileDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <img src="{{ url_for('static', filename=('uploads/' + current_user.profile_image if current_user.profile_image else 'uploads/default.png'))}}" alt="Profile Image" class="profile-img">
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="profileDropdown">
+                            <a class="dropdown-item" href="{{ url_for('profile') }}">Edit Profile</a>
+                            <a class="dropdown-item" href="#" onclick="document.getElementById('delete-account-form').submit();">Delete Account</a>
+                            <a class="dropdown-item" href="{{ url_for('logout') }}">Logout</a>
+                        </div>
+                        <form id="delete-account-form" action="{{ url_for('delete_account') }}" method="post" style="display: none;">
+                            <input type="submit" value="Delete Account" style="display: none;">
+                        </form>
+                    </div>
+                {% else %}
+                    <a href="{{ url_for('login') }}" class="text-white">Login</a>
+                {% endif %}
+            </nav>
+
+        </div>
+    </header>    
+
+    <main class="container mt-4">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }}">
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+        
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="bg-light py-3 mt-4">
+        <div class="container text-center">
+            Copyright &copy; {{ year }} Arasy Benchmarking Price LTD. All rights reserved.
+        </div>
+    </footer>    
+</body>
+</html>

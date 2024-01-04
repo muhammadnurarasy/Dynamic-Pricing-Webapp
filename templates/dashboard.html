@@ -1,0 +1,163 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="jumbotron">
+    <h1 class="display-4">Hello, {{ current_user.username }}!</h1>
+    <p class="lead">Welcome to your dashboard.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <div id="heatmap"></div>
+        <script>
+            var plotly_json = {{ plotly_json | safe }};
+            Plotly.newPlot('heatmap', plotly_json);
+        </script>
+    </div>
+    <div class="col-md-6">
+        <div id="bar_chart"></div>
+        <script>
+            var bar_chart_json = {{ bar_chart_json | safe }};
+            Plotly.newPlot('bar_chart', bar_chart_json);
+        </script>
+    </div>
+    <!-- Add more columns for other graphs if needed -->
+</div>
+
+<form id="predictionForm" action="{{ url_for('predict') }}" method="post">
+    <div class="form-group">
+        <label for="Property_Type">Property Type:</label>
+        <select class="form-control" name="Property_Type" required>
+            <option value="Apartment">Apartment</option>
+            <option value="House">House</option>
+            <option value="Condo">Condo</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="Property_Size">Property Size:</label>
+        <input type="number" class="form-control" name="Property_Size" min="1" required>
+    </div>
+
+    <div class="form-group">
+        <label for="Bedrooms">Bedrooms:</label>
+        <input type="number" class="form-control" name="Bedrooms" min="0" required>
+    </div>
+
+    <div class="form-group">
+        <label for="Bathrooms">Bathrooms:</label>
+        <input type="number" class="form-control" name="Bathrooms" min="0" required>
+    </div>
+
+    <div class="form-group">
+        <label for="Location">Location:</label>
+        <select class="form-control" name="Location" required>
+            <option value="Jakarta Pusat">Jakarta Pusat</option>
+            <option value="Jakarta Selatan">Jakarta Selatan</option>
+            <option value="Jakarta Timur">Jakarta Timur</option>
+            <option value="Jakarta Barat">Jakarta Barat</option>
+            <option value="Bekasi">Bekasi</option>
+            <option value="Bogor">Bogor</option>
+            <option value="Tangerang">Tangerang</option>
+            <option value="Depok">Depok</option>
+            <!-- Add other locations as needed -->
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="Furnishing">Furnishing:</label>
+        <select class="form-control" name="Furnishing" required>
+            <option value="Furnished">Furnished</option>
+            <option value="Unfurnished">Unfurnished</option>
+            <option value="Semi">Partially Furnished</option>
+        </select>
+    </div>
+
+    <!-- Additional fields -->
+    <div class="form-group">
+        <label for="Age_of_Property">Age of Property (in years):</label>
+        <input type="number" class="form-control" name="Age_of_Property" min="0" value="0">
+    </div>
+
+    <div class="form-group">
+        <label for="Amenities">Amenities:</label>
+        <select class="form-control" name="Amenities">
+            <option value="None">None</option>
+            <option value="Gym">Gym</option>
+            <option value="Gym_Pool">Gym,Pool</option>
+            <option value="Gym_Pool_Security">Gym,Pool,Security</option>
+            <option value="Gym_Security">Gym,Security</option>
+            <option value="Gym_Security_Pool">Gym,Security,Pool</option>
+            <option value="Pool">Pool</option>
+            <option value="Pool_Gym">Pool,Gym</option>
+            <option value="Pool_Gym_Security">Pool,Gym,Security</option>
+            <option value="Pool_Security">Pool,Security</option>
+            <option value="Pool_Security_Gym">Pool,Security,Gym</option>
+            <option value="Security">Security</option>
+            <option value="Security_Gym">Security,Gym</option>
+            <option value="Security_Gym_Pool">Security,Gym,Pool</option>
+            <option value="Security_Pool">Security,Pool</option>
+            <option value="Security_Pool_Gym">Security,Pool,Gym</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="Proximity_to_Important_Locations">Proximity to Important Locations (in km):</label>
+        <input type="number" class="form-control" name="Proximity_to_Important_Locations" step="0.1" placeholder="Leave blank if unknown">
+    </div>
+
+    <div class="form-group">
+        <label for="Floor_Level">Floor Level:</label>
+        <input type="number" class="form-control" name="Floor_Level" min="0" value="0">
+    </div>
+
+    <div class="form-group">
+        <label for="Property_Status">Property Status:</label>
+        <select class="form-control" name="Property_Status">
+            <option value="New">New</option>
+            <option value="Pre-sale">Resale</option>
+            <option value="Under Construction">Under Construction</option>
+        </select>
+    </div>
+
+    <!-- Prediction button -->
+    <button type="submit" class="btn btn-primary">Predict Rental Price</button>
+
+    <!-- Display the predicted price -->
+    <div class="form-group">
+        <label for="Predicted_Price">Predicted Rental Price:</label>
+        <input type="text" class="form-control" name="Predicted_Price" id="Predicted_Price" readonly>
+    </div>
+    
+</form>
+
+<script>
+    // Form validation
+    function formatNumberWithCommas(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+
+    $("#predictionForm").submit(function(event) {
+        /*
+        // Add validation checks here; if any check fails, return false
+        if (!$("#Property_Size").val() || !$("#Bedrooms").val() || !$("#Bathrooms").val() || !$("#Location").val() || !$("#Furnishing").val()) {
+            alert("Please fill out all required fields!");
+            return false;  // This will prevent form submission
+        }
+        */
+        console.log($(this).serialize());
+        // AJAX call for the prediction
+        event.preventDefault();  // Prevents default form submission
+
+        $.ajax({
+            type: "POST",
+            url: "{{ url_for('predict') }}",
+            data: $(this).serialize(),  // Serializes the form's elements
+            success: function(data) {
+                // Set the predicted value in the input field
+                $("#Predicted_Price").val(formatNumberWithCommas(data.prediction));
+            }
+        });
+    });
+</script>
+
+{% endblock %}

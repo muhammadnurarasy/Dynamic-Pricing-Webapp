@@ -1,0 +1,9 @@
+.profile-img {
+    width: 40px;  /* Or whatever size you want */
+    height: 40px;
+    border-radius: 50%; /* Makes it circular */
+    background-size: cover;
+    background-position: center;
+    object-fit: cover; /* Ensures the image covers the circle */
+}
+  

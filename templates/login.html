@@ -1,0 +1,29 @@
+{% extends "layout.html" %}
+
+{% block content %}
+    <h2>Login</h2>
+    <form method="post">
+        {{ form.hidden_tag() }}
+
+        {{ form.username.label }}<br>
+        {{ form.username(class="form-control", placeholder="Enter Username") }}
+        {% for error in form.username.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+        {% endfor %}
+        <br>
+
+        {{ form.password.label }}<br>
+        {{ form.password(class="form-control", placeholder="Enter Password") }}
+        {% for error in form.password.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+        {% endfor %}
+        <br>
+
+        <div class="form-check mb-3">
+            {{ form.remember_me(class="form-check-input") }}
+            {{ form.remember_me.label(class="form-check-label") }}
+        </div>
+
+        <input type="submit" value="Login" class="btn btn-primary">
+    </form>
+{% endblock %}

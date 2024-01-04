@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+
+{% block content %}
+    <h2>Register</h2>
+    <form method="post">
+        {{ form.hidden_tag() }}
+
+        {{ form.username.label }}<br>
+        {{ form.username(class="form-control", placeholder="Enter Username") }}
+        {% for error in form.username.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+        {% endfor %}
+        <br>
+
+        {{ form.email.label }}<br>
+        {{ form.email(class="form-control", placeholder="Enter Email") }}
+        {% for error in form.email.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+        {% endfor %}
+        <br>
+
+        {{ form.password.label }}<br>
+        {{ form.password(class="form-control", placeholder="Enter Password") }}
+        {% for error in form.password.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+        {% endfor %}
+        <br>
+
+        {{ form.confirm_password.label }}<br>
+        {{ form.confirm_password(class="form-control", placeholder="Confirm Password") }}
+        {% for error in form.confirm_password.errors %}
+            <span style="color: red;">[{{ error }}]</span>
+        {% endfor %}
+        <br>
+
+        <input type="submit" value="Register">
+    </form>
+{% endblock %}
